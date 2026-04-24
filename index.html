@@ -27,6 +27,20 @@
       --mono: "Space Mono", monospace;
     }
 
+    html.dark {
+      --bg: #0e0e0e;
+      --bg-2: #161616;
+      --border: #262626;
+      --text: #e5e5e5;
+      --muted: #666666;
+      --accent: #10b981;
+      --accent-dim: rgba(16, 185, 129, 0.12);
+    }
+
+    html.dark #searchInput { background: var(--bg); }
+    html.dark .result-prompt { background: #1a1a1a; }
+    html.dark code { background: #1f1f1f !important; border-color: #2a2a2a !important; color: #d1d5db !important; }
+
     html { scroll-behavior: smooth; }
 
     body {
@@ -494,6 +508,10 @@
       <a href="#categories" class="nav-link">Categories</a>
       <a href="#how-to-use" class="nav-link">How to use</a>
       <a href="https://github.com/shakirdmr/ai-prompt-library" target="_blank" rel="noopener" class="nav-link">GitHub</a>
+      <button id="themeToggle" aria-label="Toggle dark mode" style="background:none;border:1px solid var(--border);border-radius:6px;padding:6px 10px;cursor:pointer;display:flex;align-items:center;color:var(--muted);transition:all 0.15s;">
+        <svg id="iconSun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+        <svg id="iconMoon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+      </button>
       <a href="https://promptitin.com" target="_blank" rel="noopener" class="nav-cta">Try PromptIt</a>
     </div>
   </nav>
@@ -828,6 +846,28 @@ searchClear.addEventListener("click", () => {
   searchResults.style.display = "none";
   searchClear.style.display = "none";
   searchInput.focus();
+});
+
+// Dark mode
+const html = document.documentElement;
+const toggle = document.getElementById("themeToggle");
+const iconSun = document.getElementById("iconSun");
+const iconMoon = document.getElementById("iconMoon");
+
+function applyTheme(dark) {
+  html.classList.toggle("dark", dark);
+  iconSun.style.display = dark ? "block" : "none";
+  iconMoon.style.display = dark ? "none" : "block";
+}
+
+// Default: dark mode on
+const saved = localStorage.getItem("theme");
+applyTheme(saved ? saved === "dark" : true);
+
+toggle.addEventListener("click", () => {
+  const isDark = html.classList.contains("dark");
+  localStorage.setItem("theme", isDark ? "light" : "dark");
+  applyTheme(!isDark);
 });
 </script>
 </body>
