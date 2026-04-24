@@ -1,10 +1,16 @@
 # AI Prompt Library
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-Works-74aa9c?logo=openai&logoColor=white&style=for-the-badge)](https://chat.openai.com)
-[![Claude](https://img.shields.io/badge/Claude-Works-D4A96A?logo=anthropic&logoColor=white&style=for-the-badge)](https://claude.ai)
-[![Gemini](https://img.shields.io/badge/Gemini-Works-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://gemini.google.com)
-[![Grok](https://img.shields.io/badge/Grok-Works-000000?logo=x&logoColor=white&style=for-the-badge)](https://grok.x.ai)
-[![Midjourney](https://img.shields.io/badge/Midjourney-Works-6d28d9?style=for-the-badge)](https://midjourney.com)
+<p>
+  <a href="https://gemini.google.com"><img src="assets/gemini.svg" height="24" alt="Gemini"></a>
+  &nbsp;&nbsp;
+  <a href="https://claude.ai"><img src="assets/claude.svg" height="24" alt="Claude"></a>
+  &nbsp;&nbsp;
+  <a href="https://chat.openai.com"><img src="assets/openai.svg" height="24" alt="OpenAI"></a>
+  &nbsp;&nbsp;
+  <a href="https://perplexity.ai"><img src="assets/perplexity.svg" height="24" alt="Perplexity"></a>
+  &nbsp;&nbsp;
+  <a href="https://mistral.ai"><img src="assets/mistral.svg" height="24" alt="Mistral"></a>
+</p>
 
 ![Stars](https://img.shields.io/github/stars/shakirdmr/ai-prompt-library?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/shakirdmr/ai-prompt-library?style=flat-square)
