@@ -579,6 +579,19 @@
               <span class="cat-arrow">→</span>
             </div>
           </a>
+          <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/seo-prompts" target="_blank" rel="noopener" class="category-item">
+            <div class="cat-left">
+              <span class="cat-num">05</span>
+              <div class="cat-info">
+                <span class="cat-title">SEO Prompts</span>
+                <span class="cat-desc">Keyword research, content briefs, page audits, competitor analysis — ChatGPT, Claude</span>
+              </div>
+            </div>
+            <div class="cat-right">
+              <span class="cat-badge">10 prompts</span>
+              <span class="cat-arrow">→</span>
+            </div>
+          </a>
         </div>
       </section>
 
@@ -735,6 +748,16 @@ const PROMPTS = [
   { cat: "Salary", section: "Total Compensation", text: "Write a script to negotiate for 100% remote work as part of my offer. Frame it in terms of productivity and what I bring to the role.", goodFor: "Remote work is often negotiable even when listed as hybrid or in-office" },
   { cat: "Salary", section: "Specific Scenarios", text: "I am a recent graduate with no prior salary negotiation experience. Write a simple, friendly but firm script to negotiate my first offer up by [amount].", goodFor: "First-job negotiation — even entry-level salaries are often negotiable by $2,000–$5,000" },
   { cat: "Salary", section: "Specific Scenarios", text: "I have two competing job offers. Write a script to use one offer to improve the other without damaging either relationship.", goodFor: "The most powerful negotiation leverage you can have" },
+
+  // SEO Prompts
+  { cat: "SEO", section: "Keyword Research", text: "ROLE: You are a senior SEO strategist with 10 years of experience growing organic traffic for small and medium-sized businesses.\n\nCONTEXT: My website is [website URL or brief description]. It is about [what your site does]. My target audience is [who you are trying to reach]. I am currently getting [rough traffic number or 'almost no'] visitors from Google.\n\nTASK: Give me a keyword research plan. Identify 5 high-intent, low-competition keywords I could realistically rank for in the next 3–6 months. For each keyword explain: the search intent, why it is achievable, and what type of content would rank for it. Flag which 1–2 I should target first. Suggest 3 long-tail variations of the top keyword.\n\nCONSTRAINTS: Focus on keywords a beginner website can rank for — not head terms dominated by Wikipedia or major brands.", goodFor: "Building your entire keyword strategy from scratch — gives you a prioritised list you can actually rank for" },
+  { cat: "SEO", section: "Content Brief", text: "ROLE: You are an SEO content brief writer. Your briefs are used by writers to create blog posts that rank on page 1 of Google.\n\nCONTEXT: I want to write a blog post targeting the keyword \"[your target keyword]\". My website is about [what your site does]. My audience is [describe your reader].\n\nTASK: Write a complete SEO content brief. Include: recommended H1 title, meta description (150–160 chars), URL slug, full content outline with H2 and H3 headings, word count recommendation, 3 related keywords, what the top-ranking articles cover that I must also cover, and one thing I can include that makes my article more useful than the typical result.\n\nCONSTRAINTS: Every H2 should represent a genuine question the reader has — not just a topic heading.", goodFor: "A full blueprint for a blog post built for ranking from the start — before you write a single word" },
+  { cat: "SEO", section: "On-Page Audit", text: "ROLE: You are a technical and on-page SEO auditor. You identify exactly what is stopping a page from ranking higher.\n\nCONTEXT: URL: [your URL]. Target keyword: [keyword]. Current position: [position or 'not ranking']. Title: [paste title]. Meta description: [paste meta]. H1: [paste H1]. First 100 words: [paste].\n\nTASK: Audit this page. Rewrite the title tag (max 60 chars), rewrite the meta description (150–160 chars), assess the H1, identify what content is missing, list 3 quick wins I can implement today, and tell me the one thing most likely causing underperformance.\n\nCONSTRAINTS: Be specific — tell me exactly what to change and what to change it to. No vague advice.", goodFor: "A professional SEO audit on a single page — exact changes to make, not general advice" },
+  { cat: "SEO", section: "Meta Titles & Descriptions", text: "ROLE: You are an SEO copywriter who specialises in title tags and meta descriptions that get high click-through rates from Google.\n\nCONTEXT: Page topic: [topic]. Target keyword: [keyword]. Page type: [blog post / product / landing page]. Unique value: [what makes your page worth clicking].\n\nTASK: Write 5 variations of the title tag (max 60 chars, keyword included) and meta description (150–160 chars, keyword included, reason to click). Then tell me which you recommend and why.\n\nCONSTRAINTS: Vary the title structure — don't start every one with the keyword. No clickbait. Descriptions must accurately reflect the page.", goodFor: "5 ready-to-use title and meta options — the fastest way to improve your Google click-through rate" },
+  { cat: "SEO", section: "Search Console Analysis", text: "ROLE: You are a Google Search Console data analyst who helps website owners understand their data and what to do next.\n\nCONTEXT: Here is my Search Console data for the last 3 months: [paste your top queries, impressions, clicks, average position — or describe what you see]. My website is about: [brief description].\n\nTASK: Analyse this data. Tell me: the biggest opportunity I am missing, which pages to prioritise first, what my average positions tell me, why I might have high impressions but low clicks and how to fix it, and a 3-step action plan based specifically on this data.\n\nCONSTRAINTS: Speak plainly — I am not an SEO expert. Explain what each metric means before telling me what to do about it.", goodFor: "Turns confusing Search Console numbers into a plain-English action plan" },
+  { cat: "SEO", section: "Internal Linking", text: "ROLE: You are an internal linking strategist. Internal links are one of the most underused SEO levers for small websites.\n\nCONTEXT: My website pages: [list 5–15 pages with topics and URLs]. My most important page (the one I most want to rank): [URL and target keyword].\n\nTASK: Build an internal linking plan. Tell me: which pages should link to my most important page and what anchor text to use, which pages are likely orphaned and how to fix them, the ideal linking structure for my site, and write 5 actual sentences I can add to existing pages that include a natural internal link.\n\nCONSTRAINTS: Anchor text must be natural and keyword-relevant — not just 'click here.'", goodFor: "A complete internal linking plan — highest-ROI SEO task that most beginners completely ignore" },
+  { cat: "SEO", section: "Competitor Analysis", text: "ROLE: You are a competitor SEO analyst who reverse-engineers what competitors are doing to rank and identifies gaps to exploit.\n\nCONTEXT: My website is about [your niche]. My competitors ranking above me: [Competitor 1 URL], [Competitor 2 URL]. My target keyword: [keyword]. My current page: [URL or 'I don't have one yet'].\n\nTASK: Tell me: what competitors are doing well that explains their rankings, what gaps I can exploit, one angle they are all missing that I could own, how long my content needs to be to compete, and what my page needs that theirs don't for Google to rank mine higher.\n\nCONSTRAINTS: Focus on actionable differentiation — I need a realistic path to ranking.", goodFor: "Finds the specific gaps in competitor content that you can exploit to outrank them" },
+  { cat: "SEO", section: "6-Month Roadmap", text: "ROLE: You are an SEO strategist who helps new websites build their first 6 months of organic traffic from zero.\n\nCONTEXT: My website: [URL]. What it does: [description]. My goal: [e.g. '1,000 visitors/month']. Current status: [e.g. 'just launched' or '3 months old, almost no traffic']. Time available: [hours per week].\n\nTASK: Build a 6-month SEO roadmap. Cover: Month 1–2 technical foundations, Month 2–4 content to create, Month 4–6 building backlinks, what metrics to track each month, and the single biggest mistake new websites make with SEO and how I avoid it.\n\nCONSTRAINTS: Be realistic about timelines. Prioritise actions that compound over time.", goodFor: "A full 6-month SEO roadmap from scratch — a clear sequence that builds on itself month by month" },
 ];
 
 const catColors = {
@@ -742,6 +765,7 @@ const catColors = {
   "Resume": "#0369a1",
   "Job Search": "#b45309",
   "Salary": "#047857",
+  "SEO": "#dc2626",
 };
 
 const searchInput = document.getElementById("searchInput");

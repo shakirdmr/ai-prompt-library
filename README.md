@@ -19,6 +19,7 @@ Stop typing weak one-liners into ChatGPT and getting mediocre results. Every pro
 | [Resume Writing Prompts](resume-prompts/) | 50 prompts | ChatGPT, Claude, Gemini |
 | [Job Search Prompts](job-search-prompts/) | 50 prompts | ChatGPT, Claude, Gemini |
 | [Salary Negotiation Prompts](salary-negotiation-prompts/) | 50 prompts | ChatGPT, Claude |
+| [SEO Prompts](seo-prompts/) | 10 prompts | ChatGPT, Claude |
 
 More categories coming. Star the repo to get notified.
 
