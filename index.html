@@ -344,6 +344,51 @@
     .promptit-link:hover::after { transform: translateX(3px); }
     .promptit-link:hover { color: var(--accent); }
 
+    /* COMPARE */
+    .compare-block {
+      margin: 0 0 60px;
+      padding: 40px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--bg-2);
+    }
+    .compare-block h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .compare-sub {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    .compare-table-wrap { overflow-x: auto; }
+    .compare-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+    }
+    .compare-table th {
+      text-align: left;
+      padding: 10px 14px;
+      border-bottom: 2px solid var(--border);
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .compare-table td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+    }
+    .compare-table .no { color: var(--muted); }
+    .compare-table .yes { color: var(--accent); }
+    .compare-table .highlight-row td {
+      background: var(--accent-dim);
+    }
+
     /* FOOTER */
     footer {
       padding: 40px 0;
@@ -663,6 +708,49 @@
         <h3>Try PromptIt — free prompt enhancer</h3>
         <p class="desc">Paste any rough idea and PromptIt rewrites it into a detailed, structured prompt that gets dramatically better results from any AI tool.</p>
         <a href="https://promptitin.com" target="_blank" rel="noopener" class="promptit-link">promptitin.com</a>
+      </div>
+
+      <div class="compare-block">
+        <h3>How this library is different</h3>
+        <p class="compare-sub">There are other prompt libraries on GitHub. Here is what sets this one apart.</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th>Library</th>
+                <th>Approach</th>
+                <th>Last active</th>
+                <th>Structured format</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>awesome-chatgpt-prompts</td>
+                <td>Community one-liners</td>
+                <td>2022</td>
+                <td class="no">No</td>
+              </tr>
+              <tr>
+                <td>TheBigPromptLibrary</td>
+                <td>System prompts &amp; jailbreaks</td>
+                <td>2023</td>
+                <td class="no">No</td>
+              </tr>
+              <tr>
+                <td>100000-ai-prompts</td>
+                <td>Mass volume, no curation</td>
+                <td>2023</td>
+                <td class="no">No</td>
+              </tr>
+              <tr class="highlight-row">
+                <td><strong>This library</strong></td>
+                <td><strong>Real-world use cases, 5-part structure</strong></td>
+                <td><strong>2025 — active</strong></td>
+                <td class="yes"><strong>Every prompt</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
 
       <footer>

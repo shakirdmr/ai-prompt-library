@@ -47,25 +47,6 @@ Most people use one sentence. These prompts use all five.
 
 ---
 
-## How this library is different
-
-There are other prompt libraries on GitHub. Here is how this one compares:
-
-| Library | Approach | Last active | Structured format |
-|---|---|---|---|
-| awesome-chatgpt-prompts | Community one-liners | 2022 | No |
-| TheBigPromptLibrary | System prompts & jailbreaks | 2023 | No |
-| 100000-ai-prompts | Mass volume, no curation | 2023 | No |
-| prompt-library (thibaultyou) | CLI tool for developers | 2025 | No |
-| **This library** | **Real-world use cases, structured prompts** | **2025 — active** | **Yes — every prompt** |
-
-- Every prompt uses the same five-part framework — Role, Context, Task, Constraints, Output Format
-- Organised by real-world use case, not by AI tool or generic category
-- Built for people who want results, not for developers building tools
-- Actively maintained — new categories added regularly
-
----
-
 ## What's inside
 
 | Category | Prompts | Works with |
