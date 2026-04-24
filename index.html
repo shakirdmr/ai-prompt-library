@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Prompt Library — 200+ Free Copy-Paste Prompts for ChatGPT, Midjourney & Claude</title>
+  <meta name="description" content="Free, open-source library of 200+ copy-paste AI prompts for image generation, resume writing, job search, and salary negotiation. Works with ChatGPT, Midjourney, Claude, and Gemini." />
+  <meta property="og:title" content="AI Prompt Library — 200+ Free Prompts" />
+  <meta property="og:description" content="Copy-paste prompts for ChatGPT, Midjourney, Claude, and Gemini. Free forever." />
+  <meta property="og:url" content="https://shakirdmr.github.io/ai-prompt-library/" />
+  <link rel="canonical" href="https://shakirdmr.github.io/ai-prompt-library/" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #fff;
+      color: #111827;
+      line-height: 1.6;
+    }
+    a { color: inherit; text-decoration: none; }
+
+    /* NAV */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 40px;
+      border-bottom: 1px solid #E5E7EB;
+      position: sticky;
+      top: 0;
+      background: #fff;
+      z-index: 10;
+    }
+    .nav-logo { font-weight: 700; font-size: 16px; letter-spacing: -0.3px; }
+    .nav-logo span { color: #7C3AED; }
+    .nav-cta {
+      background: #7C3AED;
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    /* HERO */
+    .hero {
+      max-width: 720px;
+      margin: 80px auto 64px;
+      padding: 0 24px;
+      text-align: center;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: #F3EEFF;
+      color: #7C3AED;
+      border: 1px solid #DDD6FE;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 4px 14px;
+      margin-bottom: 24px;
+    }
+    .hero h1 {
+      font-size: clamp(28px, 5vw, 48px);
+      font-weight: 800;
+      letter-spacing: -1px;
+      line-height: 1.15;
+      margin-bottom: 20px;
+      color: #111827;
+    }
+    .hero h1 span { color: #7C3AED; }
+    .hero p {
+      font-size: 18px;
+      color: #6B7280;
+      max-width: 560px;
+      margin: 0 auto 36px;
+    }
+    .hero-buttons {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn-primary {
+      background: #7C3AED;
+      color: #fff;
+      padding: 12px 28px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .btn-secondary {
+      background: #F9FAFB;
+      color: #374151;
+      border: 1px solid #E5E7EB;
+      padding: 12px 28px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    /* STATS */
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      padding: 40px 24px;
+      border-top: 1px solid #F3F4F6;
+      border-bottom: 1px solid #F3F4F6;
+      margin-bottom: 80px;
+    }
+    .stat-item { text-align: center; }
+    .stat-number { font-size: 28px; font-weight: 800; color: #7C3AED; }
+    .stat-label { font-size: 13px; color: #9CA3AF; margin-top: 2px; }
+
+    /* CATEGORIES */
+    .section {
+      max-width: 900px;
+      margin: 0 auto 80px;
+      padding: 0 24px;
+    }
+    .section-label {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #7C3AED;
+      margin-bottom: 12px;
+    }
+    .section h2 {
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 8px;
+    }
+    .section-sub {
+      font-size: 16px;
+      color: #6B7280;
+      margin-bottom: 40px;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      border: 1px solid #E5E7EB;
+      border-radius: 12px;
+      padding: 24px;
+      transition: border-color 0.15s;
+    }
+    .card:hover { border-color: #7C3AED; }
+    .card-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+    .card h3 {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .card p {
+      font-size: 14px;
+      color: #6B7280;
+      margin-bottom: 16px;
+      line-height: 1.5;
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .card-count {
+      font-size: 12px;
+      font-weight: 600;
+      color: #7C3AED;
+      background: #F3EEFF;
+      padding: 3px 10px;
+      border-radius: 100px;
+    }
+    .card-arrow {
+      font-size: 18px;
+      color: #9CA3AF;
+    }
+
+    /* PROMPTIT CTA */
+    .cta-section {
+      background: #F9FAFB;
+      border-top: 1px solid #E5E7EB;
+      border-bottom: 1px solid #E5E7EB;
+      padding: 80px 24px;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+    .cta-section h2 {
+      font-size: clamp(22px, 4vw, 36px);
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 16px;
+    }
+    .cta-section p {
+      font-size: 17px;
+      color: #6B7280;
+      max-width: 520px;
+      margin: 0 auto 32px;
+    }
+
+    /* HOW IT WORKS */
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 24px;
+    }
+    .step { padding: 8px 0; }
+    .step-num {
+      width: 32px;
+      height: 32px;
+      background: #F3EEFF;
+      color: #7C3AED;
+      border-radius: 50%;
+      font-size: 14px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step h3 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+    .step p { font-size: 14px; color: #6B7280; }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid #E5E7EB;
+      padding: 32px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    footer p { font-size: 13px; color: #9CA3AF; }
+    .footer-links { display: flex; gap: 24px; }
+    .footer-links a { font-size: 13px; color: #6B7280; }
+    .footer-links a:hover { color: #7C3AED; }
+
+    @media (max-width: 600px) {
+      nav { padding: 16px 20px; }
+      footer { padding: 24px 20px; flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-logo">AI Prompt <span>Library</span></div>
+    <a href="https://promptitin.com" target="_blank" rel="noopener" class="nav-cta">Try PromptIt Free</a>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-badge">200+ prompts — free forever</div>
+    <h1>The best <span>copy-paste prompts</span> for ChatGPT, Midjourney & Claude</h1>
+    <p>Stop getting mediocre AI results. Every prompt here is structured, specific, and ready to use — no prompt engineering experience needed.</p>
+    <div class="hero-buttons">
+      <a href="#categories" class="btn-primary">Browse prompts</a>
+      <a href="https://github.com/shakirdmr/ai-prompt-library" target="_blank" rel="noopener" class="btn-secondary">View on GitHub</a>
+    </div>
+  </section>
+
+  <div class="stats">
+    <div class="stat-item">
+      <div class="stat-number">200+</div>
+      <div class="stat-label">Copy-paste prompts</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">4</div>
+      <div class="stat-label">Use case categories</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">5</div>
+      <div class="stat-label">AI tools supported</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">Free</div>
+      <div class="stat-label">MIT licensed</div>
+    </div>
+  </div>
+
+  <section class="section" id="categories">
+    <div class="section-label">Categories</div>
+    <h2>Browse by use case</h2>
+    <p class="section-sub">Each category is a ready-to-use prompt collection. Click to open it directly.</p>
+    <div class="cards">
+      <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/ai-image-prompts" target="_blank" rel="noopener" class="card">
+        <span class="card-icon">🎨</span>
+        <h3>AI Image Prompts</h3>
+        <p>Portraits, fashion, food photography, interiors, abstract art, and social media visuals for Midjourney, DALL-E 3, and Adobe Firefly.</p>
+        <div class="card-meta">
+          <span class="card-count">50 prompts</span>
+          <span class="card-arrow">→</span>
+        </div>
+      </a>
+      <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/resume-prompts" target="_blank" rel="noopener" class="card">
+        <span class="card-icon">📄</span>
+        <h3>Resume Writing Prompts</h3>
+        <p>Write bullet points, tailor for job descriptions, handle career gaps, and optimize your LinkedIn — all with ChatGPT or Claude.</p>
+        <div class="card-meta">
+          <span class="card-count">50 prompts</span>
+          <span class="card-arrow">→</span>
+        </div>
+      </a>
+      <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/job-search-prompts" target="_blank" rel="noopener" class="card">
+        <span class="card-icon">💼</span>
+        <h3>Job Search Prompts</h3>
+        <p>Cold outreach to recruiters, interview prep, handling tough questions, LinkedIn optimization, and evaluating offers.</p>
+        <div class="card-meta">
+          <span class="card-count">50 prompts</span>
+          <span class="card-arrow">→</span>
+        </div>
+      </a>
+      <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/salary-negotiation-prompts" target="_blank" rel="noopener" class="card">
+        <span class="card-icon">💰</span>
+        <h3>Salary Negotiation Prompts</h3>
+        <p>Counter offers, ask for raises, handle pushback, negotiate total comp — scripts for every stage of the conversation.</p>
+        <div class="card-meta">
+          <span class="card-count">50 prompts</span>
+          <span class="card-arrow">→</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-label">How to use</div>
+    <h2>Three steps, no setup</h2>
+    <p class="section-sub">No account. No install. Just copy and paste.</p>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <h3>Pick a category</h3>
+        <p>Choose the use case that matches what you are trying to do.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <h3>Copy a prompt</h3>
+        <p>Find the prompt that fits your situation. Every one is inside a code block — one click to copy.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <h3>Paste and run</h3>
+        <p>Paste it into ChatGPT, Claude, Gemini, or Midjourney. Fill in the brackets with your details.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <h3>Make it even better</h3>
+        <p>Use <a href="https://promptitin.com" target="_blank" rel="noopener" style="color:#7C3AED;font-weight:600;">PromptIt</a> to automatically enhance the prompt before you run it.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="cta-section">
+    <h2>Want AI to write your prompts for you?</h2>
+    <p>PromptIt takes your rough idea and rewrites it into a detailed, structured prompt that gets dramatically better results.</p>
+    <a href="https://promptitin.com" target="_blank" rel="noopener" class="btn-primary">Try PromptIt — it's free</a>
+  </div>
+
+  <footer>
+    <p>AI Prompt Library — MIT License — <a href="https://github.com/shakirdmr/ai-prompt-library" target="_blank" rel="noopener" style="color:#7C3AED;">GitHub</a></p>
+    <div class="footer-links">
+      <a href="https://promptitin.com" target="_blank" rel="noopener">PromptIt</a>
+      <a href="https://promptitin.com/guides/what-is-prompt-engineering" target="_blank" rel="noopener">What is Prompt Engineering?</a>
+      <a href="https://github.com/shakirdmr/ai-prompt-library" target="_blank" rel="noopener">Contribute</a>
+    </div>
+  </footer>
+
+</body>
+</html>
