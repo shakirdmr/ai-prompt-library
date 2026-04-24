@@ -435,5 +435,132 @@ OUTPUT FORMAT:
 
 ---
 
+## Programmatic SEO
+
+*Use these when you want to build hundreds or thousands of pages from a template and a dataset — instead of writing each page manually.*
+
+> **What is Programmatic SEO?** It is the practice of generating many pages at scale using a template + a structured dataset. Instead of writing one article about "best coffee shops in London", you build a template that automatically produces pages for every city in a country. Done right, these pages rank for long-tail searches at massive volume. Done wrong, Google calls them thin content and ignores them. These prompts help you do it right.
+
+&nbsp;
+
+**11. PSEO Opportunity Research**
+
+```
+ROLE: You are a programmatic SEO strategist who has built large-scale content systems for SaaS products, directories, comparison sites, and marketplaces. You identify which sites have real pSEO potential and what template types will produce ranking pages — not thin content that Google ignores.
+
+CONTEXT:
+- My website: [URL or description of what it does]
+- My product or niche: [e.g. "a tool that tracks keyword rankings" / "a directory of freelance designers"]
+- My audience: [who uses my site — their role, problem, or goal]
+- Data I have access to (or could get): [e.g. a list of cities, job titles, software tools, industries — or "I'm not sure yet"]
+- My goal: [e.g. rank for long-tail searches / generate leads at scale / grow organic traffic without writing every page manually]
+
+TASK:
+1. Tell me whether my site has real pSEO potential — and why or why not, specifically
+2. Identify 3 viable page template types I could build based on my niche and data
+3. For each template type: give me an example URL structure, an example page title, and the search intent it targets
+4. Tell me which template type has the highest ranking potential for a site at my stage — and why
+5. Flag the 2 most common reasons pSEO fails and tell me specifically how to avoid each one given my site
+
+CONSTRAINTS:
+- Be honest: if my site is not a good fit for pSEO, explain why instead of forcing it
+- Every template type must target a search intent that actually exists — not just a variable combination nobody searches for
+- Do not suggest templates that would require data I cannot realistically collect or buy
+- Prioritise templates that produce pages with genuine informational or transactional value, not just variable insertions
+
+OUTPUT FORMAT:
+- pSEO viability verdict: [yes / conditional / no] — one paragraph of reasoning specific to my site
+- Template option 1: name + URL structure example + example page title + search intent + difficulty
+- Template option 2: [same format]
+- Template option 3: [same format]
+- Recommended starting point: [which template + 2-3 sentence reasoning]
+- Failure modes to avoid: [2 specific risks for my site + how to prevent each]
+
+> Before you start: If my niche or data situation is too vague for specific template ideas, ask me one question first. Think through each template type separately before comparing them. When done, tell me: (1) one data source I may not have considered that would unlock a strong template, and (2) the next prompt I should run to begin building the template I chose.
+```
+*Tells you whether pSEO is right for your site and which template types to build — the research step most people skip before generating hundreds of low-quality pages.*
+
+&nbsp;
+
+**12. PSEO Page Template Builder**
+
+```
+ROLE: You are a programmatic SEO template architect who builds page templates that produce genuinely useful, rankable content at scale — not thin pages full of variable insertions that Google filters out of search results.
+
+CONTEXT:
+- My pSEO template type: [e.g. "[Tool] vs [Tool] comparison" / "[Job title] salary in [City]" / "Best [Product category] for [Use case]"]
+- My target audience: [who lands on these pages and what they need to know]
+- Variables in my template: [list them — e.g. Tool A, Tool B / City, Job Title / Product category, Use case]
+- Data I have: [describe your dataset — e.g. "a CSV of 200 software tools with features, pricing, and ratings"]
+- One example page I want to build: [fill in your variables — e.g. "Notion vs Airtable comparison"]
+
+CONTEXT ON QUALITY:
+- My concern about thin content: [e.g. "I'm worried all my pages will look the same" / "I have limited data per entry"]
+
+TASK:
+1. Write a full page template for my chosen template type — including H1, intro paragraph, content sections, and a conclusion
+2. Mark every variable placeholder clearly with [VARIABLE_NAME] so I can see what needs data vs. what is static text
+3. Write 3 different intro paragraph variations (for template rotation) so pages don't all open identically
+4. Identify the minimum data fields each page needs to avoid being classified as thin content
+5. Tell me which sections of the template must be unique per page and which can be static
+
+CONSTRAINTS:
+- Every section of the template must add real value to a human reader — not just fill space
+- The H1 must include the primary variable naturally — not look like a formula
+- Sections that are purely static (same on every page) must still be genuinely useful, not just padding
+- The template must work even for pages where I have limited data — include fallback text structures
+
+OUTPUT FORMAT:
+- Full page template with [VARIABLE] placeholders clearly marked
+- Section-by-section breakdown: [section name] | [static or dynamic] | [minimum data required]
+- 3 intro paragraph variations: [numbered — each uses different framing of the same variables]
+- Thin content threshold: [minimum number of populated data fields per page to avoid a quality penalty]
+- One example page fully filled in using my example: [render the template with real data]
+
+> Before you start: If my template type or data situation is unclear, ask me one specific question. Build the template from the reader's perspective — what does someone landing on this page actually want to know? When done, tell me: (1) the one section of the template most likely to be flagged as thin content, and (2) the next step to move from template to publishing at scale.
+```
+*A production-ready page template with clear variable placeholders — built to produce pages that rank, not pages that get filtered as duplicate or thin content.*
+
+&nbsp;
+
+**13. PSEO Content Quality & Thin Content Audit**
+
+```
+ROLE: You are a programmatic SEO quality auditor who evaluates large-scale page sets for thin content risk, duplicate content patterns, and the specific signals Google uses to filter pSEO pages out of search results. You have audited sites with tens of thousands of programmatic pages.
+
+CONTEXT:
+- My pSEO template type: [e.g. "salary pages for 500 job titles across 50 cities"]
+- My page count (actual or planned): [e.g. 2,500 pages / 10,000 pages]
+- My template structure: [paste your template, or describe the key sections]
+- What makes pages different from each other: [e.g. only the city and salary number change / we have 8 data fields per entry]
+- Current indexing situation (if live): [e.g. Google has indexed 200 of 2,500 pages / not live yet]
+- My biggest concern: [e.g. all pages look the same / Google is ignoring most of them / I got a manual action warning]
+
+TASK:
+1. Assess my template for thin content risk — give me a specific score (low / medium / high risk) and explain why
+2. Identify which sections of my template are too similar across pages and tell me exactly how to add variation
+3. Give me 5 specific signals Google uses to identify and devalue pSEO pages — and whether my setup triggers each one
+4. Write a 10-point quality checklist I can run against any single page before publishing it at scale
+5. If I am already live with low indexing: diagnose the most likely reason Google is not indexing my pages
+
+CONSTRAINTS:
+- Be specific to my template and data — not a generic pSEO lecture
+- Every risk you identify must come with a concrete fix, not just a warning
+- If my template is fundamentally too thin, say so directly — tell me what minimum data per page would make it viable
+- Distinguish between what causes de-indexing vs. what causes ranking failure — they are different problems
+
+OUTPUT FORMAT:
+- Thin content risk rating: [low / medium / high] + one paragraph of reasoning
+- Sections with highest similarity risk: [list with specific fix for each]
+- Google's 5 quality signals: [table — signal | does my setup trigger it? | fix]
+- 10-point quality checklist: [numbered — what to check on any single page before publishing]
+- Indexing diagnosis (if applicable): [most likely cause + 2-3 steps to fix it]
+
+> Before you start: If my template or indexing situation is unclear, ask me one specific question. Evaluate each quality signal separately before giving an overall assessment. When done, tell me: (1) the single change that would most improve my indexing rate, and (2) the next prompt to run to improve overall pSEO performance on my site.
+```
+*Audits your pSEO pages for the exact signals Google uses to filter them — so you can fix thin content problems before they kill your indexing rate.*
+
+---
+
 > **These prompts are built with the same structure used by professional prompt engineers.**
 > If you want AI to build structured prompts like these automatically for any topic, try **[PromptIt](https://promptitin.com)** — free, no account needed.
