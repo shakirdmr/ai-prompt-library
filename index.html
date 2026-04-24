@@ -358,6 +358,123 @@
     }
     .footer-right a:hover { color: var(--text); }
 
+    /* SEARCH */
+    .search-section {
+      padding: 32px 0 0;
+    }
+    .search-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      color: var(--muted);
+      pointer-events: none;
+      flex-shrink: 0;
+    }
+    #searchInput {
+      width: 100%;
+      padding: 13px 40px 13px 42px;
+      font-family: var(--font);
+      font-size: 15px;
+      color: var(--text);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    #searchInput::placeholder { color: var(--muted); }
+    #searchInput:focus { border-color: var(--accent); }
+    .search-clear {
+      position: absolute;
+      right: 14px;
+      font-size: 12px;
+      color: var(--muted);
+      cursor: pointer;
+      padding: 4px;
+    }
+    .search-clear:hover { color: var(--text); }
+    .search-results {
+      margin-top: 8px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .search-empty {
+      padding: 24px;
+      font-size: 14px;
+      color: var(--muted);
+      text-align: center;
+    }
+    .search-result-item {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .search-result-item:last-child { border-bottom: none; }
+    .result-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .result-cat {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--accent);
+      background: var(--accent-dim);
+      padding: 2px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+    .result-section {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .result-prompt {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text);
+      background: #f9fafb;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 10px 12px;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .result-goodfor {
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+    }
+    .result-copy {
+      align-self: flex-start;
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--accent);
+      background: var(--accent-dim);
+      border: 1px solid rgba(5,150,105,0.2);
+      padding: 5px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .result-copy:hover { background: rgba(5,150,105,0.18); }
+    .search-count {
+      padding: 10px 20px;
+      font-size: 12px;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      font-family: var(--mono);
+    }
+
     @media (max-width: 600px) {
       nav { padding: 16px 20px; }
       .nav-right .nav-link { display: none; }
@@ -386,18 +503,28 @@
 
       <section class="hero">
         <div class="hero-tag">Open source &mdash; MIT license &mdash; 200+ prompts</div>
-        <h1>The AI prompt library for everyone.</h1>
-        <p>Copy-paste prompts for ChatGPT, Midjourney, Claude, and Gemini — structured, specific, and free forever. No account. No setup. Just paste and run.</p>
+        <h1>Not sure what to type into ChatGPT? Start here.</h1>
+        <p>Most people get bad results from AI because they don't know how to ask. This library gives you 200+ ready-made prompts — just copy, fill in your details, and paste. No experience needed.</p>
         <div class="hero-links">
           <a href="#categories">Browse prompts &rarr;</a>
           <a href="https://github.com/shakirdmr/ai-prompt-library" target="_blank" rel="noopener">Star on GitHub</a>
         </div>
       </section>
 
+      <section class="search-section">
+        <div class="search-wrap">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="searchInput" placeholder="Search 200+ prompts — try &quot;resume&quot;, &quot;image&quot;, &quot;raise&quot;..." autocomplete="off" />
+          <span id="searchClear" class="search-clear" style="display:none">✕</span>
+        </div>
+        <div id="searchResults" class="search-results" style="display:none"></div>
+      </section>
+
       <section class="section" id="categories">
         <div class="section-header">
           <div class="section-label">Categories</div>
-          <h2>Browse by use case</h2>
+          <h2>Pick what you need</h2>
+          <p style="margin-top:10px;font-size:15px;color:var(--muted);line-height:1.6;">Each category below is a full collection of prompts for that topic. Click one, find the prompt closest to your situation, copy it, and paste it into ChatGPT or any other AI tool. Replace anything inside <code style="font-family:var(--mono);font-size:12px;background:#f3f4f6;padding:2px 6px;border-radius:4px;">[brackets]</code> with your own details.</p>
         </div>
         <div class="category-list">
           <a href="https://github.com/shakirdmr/ai-prompt-library/tree/main/ai-image-prompts" target="_blank" rel="noopener" class="category-item">
@@ -405,7 +532,7 @@
               <span class="cat-num">01</span>
               <div class="cat-info">
                 <span class="cat-title">AI Image Prompts</span>
-                <span class="cat-desc">Midjourney, DALL-E 3, Adobe Firefly, Gemini, ChatGPT</span>
+                <span class="cat-desc">Generate photos, portraits, product shots & more — Midjourney, DALL-E 3, Gemini</span>
               </div>
             </div>
             <div class="cat-right">
@@ -418,7 +545,7 @@
               <span class="cat-num">02</span>
               <div class="cat-info">
                 <span class="cat-title">Resume Writing Prompts</span>
-                <span class="cat-desc">ChatGPT, Claude, Gemini</span>
+                <span class="cat-desc">Write, improve, and tailor your resume with AI — ChatGPT, Claude, Gemini</span>
               </div>
             </div>
             <div class="cat-right">
@@ -431,7 +558,7 @@
               <span class="cat-num">03</span>
               <div class="cat-info">
                 <span class="cat-title">Job Search Prompts</span>
-                <span class="cat-desc">ChatGPT, Claude, Gemini</span>
+                <span class="cat-desc">Cold outreach, interview prep, offer evaluation — ChatGPT, Claude, Gemini</span>
               </div>
             </div>
             <div class="cat-right">
@@ -444,7 +571,7 @@
               <span class="cat-num">04</span>
               <div class="cat-info">
                 <span class="cat-title">Salary Negotiation Prompts</span>
-                <span class="cat-desc">ChatGPT, Claude</span>
+                <span class="cat-desc">Counter offers, raise requests, handling pushback — ChatGPT, Claude</span>
               </div>
             </div>
             <div class="cat-right">
@@ -458,35 +585,43 @@
       <section class="section" id="how-to-use">
         <div class="section-header">
           <div class="section-label">How to use</div>
-          <h2>Three steps, no setup</h2>
+          <h2>Never used AI prompts before? Here's exactly what to do.</h2>
+          <p style="margin-top:10px;font-size:15px;color:var(--muted);line-height:1.6;">A "prompt" is just what you type into ChatGPT or any AI tool. The more specific you are, the better the result. These prompts are already written the right way — you just fill in your own details.</p>
         </div>
         <div class="steps-list">
           <div class="step-item">
             <span class="step-num-badge">01</span>
             <div class="step-body">
-              <h3>Pick a category</h3>
-              <p>Click the use case above that matches what you are trying to do.</p>
+              <h3>Pick a category above</h3>
+              <p>Choose the topic that matches what you are trying to do — images, resume, job search, or salary.</p>
             </div>
           </div>
           <div class="step-item">
             <span class="step-num-badge">02</span>
             <div class="step-body">
-              <h3>Copy a prompt</h3>
-              <p>Every prompt is inside a code block. Find the one that fits your situation and copy it in one click.</p>
+              <h3>Find a prompt that fits your situation</h3>
+              <p>Scroll through the list. Each prompt has a short note explaining when to use it. Pick the one closest to what you need.</p>
             </div>
           </div>
           <div class="step-item">
             <span class="step-num-badge">03</span>
             <div class="step-body">
-              <h3>Paste and run</h3>
-              <p>Paste into ChatGPT, Claude, Gemini, or Midjourney. Replace the bracketed parts with your own details.</p>
+              <h3>Copy it — one click on the code block</h3>
+              <p>Click the copy button on the code block. The full prompt is now on your clipboard.</p>
             </div>
           </div>
           <div class="step-item">
             <span class="step-num-badge">04</span>
             <div class="step-body">
-              <h3>Make it yours</h3>
-              <p>For even better output, run it through <a href="https://promptitin.com" target="_blank" rel="noopener">PromptIt</a> first — it rewrites and strengthens your prompt automatically.</p>
+              <h3>Paste into ChatGPT (or any AI tool) and fill in the blanks</h3>
+              <p>Open ChatGPT, Claude, or Gemini. Paste the prompt. Replace anything inside <code style="font-family:var(--mono);font-size:12px;background:#f3f4f6;padding:1px 5px;border-radius:4px;">[brackets]</code> with your real information. Hit send.</p>
+            </div>
+          </div>
+          <div class="step-item">
+            <span class="step-num-badge">05</span>
+            <div class="step-body">
+              <h3>Want even better results?</h3>
+              <p>Use <a href="https://promptitin.com" target="_blank" rel="noopener">PromptIt</a> — paste your rough idea and it automatically rewrites it into a stronger, more detailed prompt before you run it.</p>
             </div>
           </div>
         </div>
@@ -515,5 +650,161 @@
     </div>
   </main>
 
+<script>
+const PROMPTS = [
+  // AI Image Prompts
+  { cat: "AI Image", section: "Portrait & People", text: "A confident professional woman in her 30s, standing in a modern glass office, soft natural window light, wearing a navy blazer, shallow depth of field, Canon 5D, 85mm lens, editorial photography style --ar 4:5 --v 6", goodFor: "LinkedIn headshots, website team pages, business photography" },
+  { cat: "AI Image", section: "Portrait & People", text: "A young man in his 20s sitting at a coffee shop, reading a book, warm golden hour light, bokeh background, casual style, film grain, Fujifilm aesthetic --ar 4:5", goodFor: "Lifestyle brand content, blog headers, social media posts" },
+  { cat: "AI Image", section: "Portrait & People", text: "Close-up portrait of a woman with red hair and freckles, looking slightly off-camera, natural light, no makeup, ultra-realistic, 8K, shot on Sony A7R --ar 2:3", goodFor: "Beauty brand content, editorial photography, magazine covers" },
+  { cat: "AI Image", section: "Portrait & People", text: "Group of diverse college students walking through a bright university hallway, candid style, natural light flooding from large windows, laughing and talking --ar 16:9", goodFor: "Education websites, university marketing, blog thumbnails" },
+  { cat: "AI Image", section: "Fashion & Style", text: "High fashion editorial: woman in flowing white silk dress standing in a minimalist white studio, dramatic side lighting, Vogue magazine style, full body shot --ar 2:3", goodFor: "Fashion brand lookbooks, Instagram editorial posts, online store hero images" },
+  { cat: "AI Image", section: "Fashion & Style", text: "Street style fashion photo: young woman in oversized blazer and wide-leg trousers, urban background, overcast light, candid pose, editorial magazine look --ar 4:5", goodFor: "Streetwear brands, fashion blog thumbnails, Instagram content" },
+  { cat: "AI Image", section: "Fashion & Style", text: "Luxury watch product shot on a male wrist, dark leather jacket sleeve, moody studio lighting, macro lens, extreme detail, black background --ar 1:1", goodFor: "E-commerce product pages, watch brand ads, luxury goods marketing" },
+  { cat: "AI Image", section: "Fashion & Style", text: "Minimalist flat lay of a capsule wardrobe: neutral tones, white background, neatly arranged pieces, top-down shot, professional product photography --ar 1:1", goodFor: "Fashion influencer content, online store product pages, Pinterest" },
+  { cat: "AI Image", section: "Social Media", text: "Instagram-worthy acai bowl with sliced banana, granola, fresh berries, honey drizzle, white marble background, overhead shot, natural daylight, food photography --ar 1:1", goodFor: "Food blogger posts, health brand content, restaurant social media" },
+  { cat: "AI Image", section: "Social Media", text: "Aesthetic morning routine flat lay: coffee cup, journal, glasses, phone, succulent plant, white linen background, soft shadows, lifestyle photography --ar 1:1", goodFor: "Productivity content creators, wellness brands, Pinterest boards" },
+  { cat: "AI Image", section: "Social Media", text: "Golden hour selfie-style photo of a woman at a rooftop in a major city, city skyline blurred in background, warm tones, authentic lifestyle feel --ar 4:5", goodFor: "Lifestyle influencer content, travel posts, personal brand building" },
+  { cat: "AI Image", section: "Social Media", text: "Motivational workspace: MacBook, notebook, coffee, small potted plant, on a clean wooden desk, window light, cozy productive atmosphere --ar 16:9", goodFor: "Productivity blog thumbnails, YouTube channel art, LinkedIn banners" },
+  { cat: "AI Image", section: "Food & Product", text: "Artisan sourdough bread loaf on a dark wooden cutting board, rustic kitchen background, steam rising, golden crust, moody dramatic lighting, food magazine style --ar 4:5", goodFor: "Bakery social media, food blogs, restaurant menu pages" },
+  { cat: "AI Image", section: "Food & Product", text: "A glass of iced coffee with milk swirling in slow motion effect, dark background, condensation on glass, macro shot, editorial coffee brand style --ar 4:5", goodFor: "Coffee shop marketing, cafe Instagram, beverage brand campaigns" },
+  { cat: "AI Image", section: "Food & Product", text: "Luxury skincare product lineup: serum, moisturizer, toner on white marble with dried flowers, soft pastel background, clean beauty brand aesthetic --ar 1:1", goodFor: "Beauty brand product launches, e-commerce pages, PR campaigns" },
+  { cat: "AI Image", section: "Interior & Architecture", text: "Scandinavian living room interior: white walls, natural wood furniture, linen sofa, large plant, soft diffused daylight, architectural digest style, wide angle --ar 16:9", goodFor: "Real estate listings, interior design portfolios, home decor brand content" },
+  { cat: "AI Image", section: "Interior & Architecture", text: "Cozy reading nook with built-in bookshelves, warm lamp light, green velvet armchair, rain on window in background, hygge aesthetic, interior photography --ar 4:5", goodFor: "Home decor brands, book review blogs, lifestyle content" },
+  { cat: "AI Image", section: "Abstract & Artistic", text: "Abstract fluid art: deep ocean blues and teals swirling with gold leaf accents, high resolution, macro photography style, fine art print --ar 4:5", goodFor: "Wall art prints, website backgrounds, brand identity visuals" },
+  { cat: "AI Image", section: "Abstract & Artistic", text: "Neon cyberpunk cityscape reflected in rain-soaked street at night, purple and cyan lights, foggy atmosphere, cinematic widescreen --ar 21:9", goodFor: "Gaming thumbnails, sci-fi content, YouTube channel banners" },
+  { cat: "AI Image", section: "Nature & Landscape", text: "Aerial view of lavender fields in Provence, France, rows of purple fading to horizon, small stone farmhouse, golden hour, drone photography --ar 16:9", goodFor: "Travel blogs, nature brand campaigns, desktop wallpapers" },
+  { cat: "AI Image", section: "Nature & Landscape", text: "Milky Way galaxy over a mountain lake, perfect reflection in still water, long exposure photography, dark sky, stars visible, Iceland --ar 16:9", goodFor: "Astronomy content, travel photography, screensavers, art prints" },
+  { cat: "AI Image", section: "Nature & Landscape", text: "Cherry blossom tree in full bloom, petals falling, soft spring light, Japan, shallow depth of field, travel photography --ar 4:5", goodFor: "Japan travel content, spring campaigns, lifestyle brand visuals" },
+  { cat: "AI Image", section: "Business & Marketing", text: "Diverse team of professionals in a modern boardroom, collaborative discussion around a large table, natural light, authentic candid style, corporate photography --ar 16:9", goodFor: "Company websites, pitch decks, LinkedIn company page banners" },
+  { cat: "AI Image", section: "Business & Marketing", text: "Female entrepreneur working on laptop at a standing desk, modern home office, natural daylight, plants in background, LinkedIn-ready professional photo --ar 4:5", goodFor: "Personal brand content, LinkedIn profiles, business coach marketing" },
+  { cat: "AI Image", section: "Travel & Lifestyle", text: "Solo traveler standing on a cliffside in Santorini, blue dome churches below, looking out to sea, golden hour, travel influencer aesthetic --ar 4:5", goodFor: "Travel blog headers, Instagram content, tourism brand ads" },
+  { cat: "AI Image", section: "Travel & Lifestyle", text: "Couple walking hand-in-hand on a tropical beach at sunset, silhouette, warm orange sky, calm waves, romantic lifestyle photography --ar 16:9", goodFor: "Wedding brands, resort marketing, romantic lifestyle content" },
+
+  // Resume Prompts
+  { cat: "Resume", section: "Writing from Scratch", text: "Write a professional resume for a [job title] with [X] years of experience in [industry]. Include a summary, work experience at [Company A] and [Company B], skills section, and education. Use strong action verbs and quantify achievements where possible.", goodFor: "Starting a resume from scratch — fill in your job title, years, and company names" },
+  { cat: "Resume", section: "Writing from Scratch", text: "I am a [job title] applying for a [target role] at a [company type]. Write my resume summary in 3-4 sentences that highlights my [top skill], [second skill], and [achievement]. Make it ATS-friendly.", goodFor: "The summary section at the top — first thing recruiters read" },
+  { cat: "Resume", section: "Writing from Scratch", text: "Write 5 bullet points for my role as [Job Title] at [Company]. My responsibilities included [list tasks]. Rewrite these using the STAR method (Situation, Task, Action, Result) with specific metrics.", goodFor: "Turning a boring list of duties into achievement-focused bullets" },
+  { cat: "Resume", section: "Writing from Scratch", text: "I have [X] years of experience in [field] but I am switching careers to [new field]. Write a resume summary that bridges my existing skills to the new role without highlighting the career gap.", goodFor: "Career changers who worry their old experience doesn't look relevant" },
+  { cat: "Resume", section: "Writing from Scratch", text: "Create a one-page resume for a recent graduate with a degree in [subject] from [University]. Include 2 internships at [Company A] and [Company B], a GPA of [X], and skills in [skill1], [skill2], [skill3].", goodFor: "Students or fresh graduates with limited work experience" },
+  { cat: "Resume", section: "Improving Bullet Points", text: "Rewrite these resume bullet points to be more impactful with quantified results: [paste your bullets here]. Use strong action verbs and include percentages, dollar amounts, or timeframes where relevant.", goodFor: "Turning weak bullets into strong, measurable achievements" },
+  { cat: "Resume", section: "Improving Bullet Points", text: "My resume bullet says: \"[paste weak bullet]\". Rewrite it to sound more impressive while staying truthful. Add a measurable result if one can be reasonably inferred.", goodFor: "Improving one bullet at a time without rewriting the whole resume" },
+  { cat: "Resume", section: "Tailoring for a Job", text: "Here is a job description: [paste JD]. Here is my current resume: [paste resume]. Rewrite my resume summary and top 3 bullet points to align with the keywords and requirements in this job description.", goodFor: "Passing ATS filters — the most impactful thing you can do before applying" },
+  { cat: "Resume", section: "Tailoring for a Job", text: "Extract the top 10 keywords from this job description that I should include in my resume: [paste JD].", goodFor: "Quickly identifying which words to naturally work into your resume" },
+  { cat: "Resume", section: "Tailoring for a Job", text: "Compare my resume to this job description and tell me: (1) what matches well, (2) what is missing, (3) what to cut. Resume: [paste]. JD: [paste].", goodFor: "A full gap analysis before applying to a role you really want" },
+  { cat: "Resume", section: "Cover Letter", text: "Write a cover letter for a [job title] position at [Company]. I have [X] years of experience in [field] and my top achievements include [achievement 1] and [achievement 2]. Keep it to 3 paragraphs, confident but not arrogant.", goodFor: "A solid cover letter you can customise per application" },
+  { cat: "Resume", section: "LinkedIn", text: "Rewrite my LinkedIn headline for a [job title] who specializes in [skill] and is open to [type of opportunities]. Make it keyword-rich and compelling. Current headline: [paste].", goodFor: "The single most important line on your LinkedIn — recruiters see it first" },
+  { cat: "Resume", section: "LinkedIn", text: "Write a LinkedIn About section for a [job title] with [X] years of experience. Include: what I do, who I help, key achievements, and a call to action. Keep it under 300 words and conversational.", goodFor: "The summary section most people leave blank or fill with generic phrases" },
+  { cat: "Resume", section: "Gaps & Tricky Situations", text: "I have a 2-year gap in my resume from [year] to [year]. I was [briefly explain: traveling / caregiving / freelancing / studying]. Write 2 ways to address this in my resume and cover letter honestly but positively.", goodFor: "Anyone worried a gap will hurt their chances" },
+  { cat: "Resume", section: "Gaps & Tricky Situations", text: "I was laid off from my last role. How should I explain this in my resume, cover letter, and LinkedIn profile without it raising red flags? Write example language for each.", goodFor: "People who were made redundant and are not sure how to talk about it" },
+  { cat: "Resume", section: "Interview Prep", text: "Based on my resume below, generate 10 interview questions a hiring manager is likely to ask me and write strong answers using the STAR method: [paste resume].", goodFor: "Predicting tough questions before the interview — paste your real resume" },
+  { cat: "Resume", section: "Interview Prep", text: "Write a 60-second elevator pitch I can use in an interview based on my resume: [paste resume].", goodFor: "The classic 'Tell me about yourself' question" },
+
+  // Job Search Prompts
+  { cat: "Job Search", section: "Finding the Right Role", text: "I am a [job title] with [X] years of experience in [skills]. What job titles should I be searching for? Give me 10 variations including ones I might not have considered.", goodFor: "Discovering job titles you qualify for that you haven't thought of" },
+  { cat: "Job Search", section: "Finding the Right Role", text: "I want to transition from [current role] to [target role]. Create a 30-day job search plan with daily actions to maximize my chances.", goodFor: "Career changers who need a structured plan, not just motivation" },
+  { cat: "Job Search", section: "Finding the Right Role", text: "I have been job searching for [X] months with no results. Diagnose what might be going wrong based on my approach: [describe your process]. Give me 5 specific fixes.", goodFor: "People putting in effort but getting no responses" },
+  { cat: "Job Search", section: "Cold Outreach", text: "Write a cold LinkedIn message to a recruiter at [Company] for a [role]. Keep it under 300 characters, show I have done my research, and include a clear ask.", goodFor: "LinkedIn connection requests — short messages get much higher response rates" },
+  { cat: "Job Search", section: "Cold Outreach", text: "Write a cold email to the hiring manager for a [role] at [Company]. Reference something specific about their work or the company, explain why I am a fit, and end with a clear next step. My background: [brief summary].", goodFor: "Going directly to the decision-maker rather than waiting for HR" },
+  { cat: "Job Search", section: "Cold Outreach", text: "Write a follow-up email after submitting a job application 2 weeks ago. Keep it brief, polite, and show continued interest without being pushy.", goodFor: "The follow-up most candidates forget to send — it makes a real difference" },
+  { cat: "Job Search", section: "Cold Outreach", text: "Write a thank-you email after a first-round interview at [Company] for a [role]. Reference one specific thing we discussed and reaffirm my interest.", goodFor: "Standing out after an interview — most candidates never send a follow-up" },
+  { cat: "Job Search", section: "Interview Preparation", text: "I have an interview for a [role] at [Company]. Give me the 10 most likely interview questions and write strong STAR-method answers for each based on my background: [paste resume or brief summary].", goodFor: "Walking into any interview fully prepared — most powerful prompt in this list" },
+  { cat: "Job Search", section: "Interview Preparation", text: "What are the most common behavioral interview questions for a [role]? Write model answers using the STAR method.", goodFor: "Behavioral questions like 'Tell me about a time you handled conflict'" },
+  { cat: "Job Search", section: "Interview Preparation", text: "Write 10 smart questions I should ask at the end of my interview for a [role] at [Company]. Make them show strategic thinking and genuine curiosity.", goodFor: "The 'Do you have any questions?' moment — your questions reveal as much as your answers" },
+  { cat: "Job Search", section: "Difficult Questions", text: "I was laid off from my last job. Write a confident, honest answer to 'Why did you leave your last role?' that does not raise red flags.", goodFor: "Layoffs are common — a prepared answer removes all awkwardness" },
+  { cat: "Job Search", section: "Difficult Questions", text: "Write an answer to 'What is your greatest weakness?' for a [job title] interview that is honest but does not hurt my candidacy.", goodFor: "One of the most asked and most poorly answered interview questions" },
+  { cat: "Job Search", section: "LinkedIn", text: "Rewrite my LinkedIn headline for a [job title] who is actively looking for [type of role]. Make it keyword-rich and stand out in search results. Current: [paste headline].", goodFor: "Getting found by recruiters who search LinkedIn for candidates" },
+  { cat: "Job Search", section: "LinkedIn", text: "Write a LinkedIn post announcing I am open to work as a [job title]. Make it confident, specific about what I am looking for, and easy for people to share or tag others.", goodFor: "Activating your network — one post can generate 10+ referrals" },
+  { cat: "Job Search", section: "Offer Evaluation", text: "I received two job offers: [Offer A details] and [Offer B details]. Help me build a structured comparison framework to decide which to take, including factors beyond salary.", goodFor: "Comparing offers holistically — growth, culture, and flexibility matter too" },
+  { cat: "Job Search", section: "Offer Evaluation", text: "Write a professional email to decline a job offer politely while keeping the relationship warm in case I want to work there in the future.", goodFor: "Declining gracefully — the hiring manager may be a future colleague" },
+
+  // Salary Negotiation Prompts
+  { cat: "Salary", section: "Research & Preparation", text: "I am a [job title] with [X] years of experience in [city/country]. What is the market salary range for my role in [year]? What sources should I check and what factors affect the range?", goodFor: "Establishing your baseline before any negotiation" },
+  { cat: "Salary", section: "Research & Preparation", text: "I have a job offer for [role] at [company type] paying [amount]. Is this competitive for [city] in [year]? What should I counter with?", goodFor: "A quick sanity check on whether an offer is fair" },
+  { cat: "Salary", section: "Research & Preparation", text: "Help me build a case for a salary negotiation. My role is [title], I have been at the company [X] years, I earn [current salary], and the market rate is [market rate]. Write a structured argument.", goodFor: "Preparing talking points before a raise conversation with your manager" },
+  { cat: "Salary", section: "Initial Offer", text: "I received a job offer of [amount] for a [role] at [Company]. I was hoping for [target amount]. Write a professional email to negotiate higher without sounding ungrateful or aggressive.", goodFor: "A counter-offer email you can send immediately after filling in your numbers" },
+  { cat: "Salary", section: "Initial Offer", text: "Write a script for a 5-minute phone call where I counter a job offer of [amount] and ask for [target amount]. I have [X] years of experience and a competing offer of [amount]. Keep it confident but collaborative.", goodFor: "Phone negotiations — having a script means you won't freeze or forget key points" },
+  { cat: "Salary", section: "Initial Offer", text: "The recruiter asked me what salary I am looking for before giving me a number. Write 3 different responses I can use to deflect and ask them to go first.", goodFor: "Avoiding the first-number trap — whoever names a number first is at a disadvantage" },
+  { cat: "Salary", section: "Asking for a Raise", text: "Write a script for asking my manager for a salary increase. I have been in this role for [X] years, I earn [current amount], market rate is [market rate], and my recent achievements include [achievement 1] and [achievement 2].", goodFor: "The annual or mid-year raise conversation — fill in your real achievements" },
+  { cat: "Salary", section: "Asking for a Raise", text: "I want to ask for a [X]% raise but my company had a tough year. Write a persuasive script that acknowledges the situation but still makes a strong case based on my contributions.", goodFor: "Asking for a raise during a difficult business period" },
+  { cat: "Salary", section: "Asking for a Raise", text: "Write an email to my manager requesting a meeting to discuss my compensation. Keep it brief, professional, and do not reveal the exact ask in the email itself.", goodFor: "Setting up the conversation — make the ask in person, not over email" },
+  { cat: "Salary", section: "Handling Pushback", text: "My manager said the budget is frozen and they cannot give me a raise right now. Write a professional response that keeps the conversation open and sets up a timeline for revisiting it.", goodFor: "Always get a specific date to revisit, not a vague 'later'" },
+  { cat: "Salary", section: "Handling Pushback", text: "The hiring manager said my counter-offer is too high. Write a response that holds my position while showing flexibility on non-cash benefits.", goodFor: "When they push back but haven't said a hard no — room to meet in the middle" },
+  { cat: "Salary", section: "Handling Pushback", text: "My employer said they are already paying me at the top of the band. Write a professional response that challenges this politely and asks for transparency on the band range.", goodFor: "'Top of band' is a common tactic — you have a right to ask for the actual range" },
+  { cat: "Salary", section: "Total Compensation", text: "A company offered me [base salary] but I currently earn [total comp including bonus and equity]. Write a script to negotiate total compensation, not just base salary.", goodFor: "Tech or finance roles where total comp is much more than just base salary" },
+  { cat: "Salary", section: "Total Compensation", text: "I want to negotiate a signing bonus to offset the unvested equity I am leaving behind at my current job. Write an email explaining this and asking for a specific amount.", goodFor: "When you are leaving unvested stock — companies often cover this if you ask" },
+  { cat: "Salary", section: "Total Compensation", text: "Write a script to negotiate for 100% remote work as part of my offer. Frame it in terms of productivity and what I bring to the role.", goodFor: "Remote work is often negotiable even when listed as hybrid or in-office" },
+  { cat: "Salary", section: "Specific Scenarios", text: "I am a recent graduate with no prior salary negotiation experience. Write a simple, friendly but firm script to negotiate my first offer up by [amount].", goodFor: "First-job negotiation — even entry-level salaries are often negotiable by $2,000–$5,000" },
+  { cat: "Salary", section: "Specific Scenarios", text: "I have two competing job offers. Write a script to use one offer to improve the other without damaging either relationship.", goodFor: "The most powerful negotiation leverage you can have" },
+];
+
+const catColors = {
+  "AI Image": "#7c3aed",
+  "Resume": "#0369a1",
+  "Job Search": "#b45309",
+  "Salary": "#047857",
+};
+
+const searchInput = document.getElementById("searchInput");
+const searchResults = document.getElementById("searchResults");
+const searchClear = document.getElementById("searchClear");
+
+function highlight(text, query) {
+  if (!query) return text;
+  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return text.replace(new RegExp(`(${escaped})`, "gi"), "<mark style='background:#fef08a;border-radius:2px;'>$1</mark>");
+}
+
+function renderResults(query) {
+  const q = query.trim().toLowerCase();
+  if (!q) {
+    searchResults.style.display = "none";
+    searchClear.style.display = "none";
+    return;
+  }
+  searchClear.style.display = "block";
+  const matches = PROMPTS.filter(p =>
+    p.text.toLowerCase().includes(q) ||
+    p.section.toLowerCase().includes(q) ||
+    p.cat.toLowerCase().includes(q) ||
+    p.goodFor.toLowerCase().includes(q)
+  );
+  searchResults.style.display = "block";
+  if (matches.length === 0) {
+    searchResults.innerHTML = `<div class="search-empty">No prompts found for "<strong>${query}</strong>" — try a different keyword.</div>`;
+    return;
+  }
+  const countRow = `<div class="search-count">${matches.length} prompt${matches.length !== 1 ? "s" : ""} found</div>`;
+  const items = matches.map((p, i) => {
+    const color = catColors[p.cat] || "#059669";
+    return `
+      <div class="search-result-item">
+        <div class="result-meta">
+          <span class="result-cat" style="color:${color};background:${color}18;">${p.cat}</span>
+          <span class="result-section">${p.section}</span>
+        </div>
+        <div class="result-prompt">${highlight(p.text, query)}</div>
+        <div class="result-goodfor">Good for: ${p.goodFor}</div>
+        <button class="result-copy" onclick="copyPrompt(this, ${i})" style="color:${color};background:${color}18;border-color:${color}33;">Copy prompt</button>
+      </div>`;
+  }).join("");
+  searchResults.innerHTML = countRow + items;
+}
+
+function copyPrompt(btn, idx) {
+  const text = PROMPTS[idx].text;
+  navigator.clipboard.writeText(text).then(() => {
+    btn.textContent = "Copied!";
+    setTimeout(() => btn.textContent = "Copy prompt", 2000);
+  });
+}
+
+searchInput.addEventListener("input", e => renderResults(e.target.value));
+searchClear.addEventListener("click", () => {
+  searchInput.value = "";
+  searchResults.style.display = "none";
+  searchClear.style.display = "none";
+  searchInput.focus();
+});
+</script>
 </body>
 </html>
