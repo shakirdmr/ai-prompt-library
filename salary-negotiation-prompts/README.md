@@ -1,4 +1,15 @@
-# Salary Negotiation Prompts — 50 Free Copy-Paste Examples
+# Salary Negotiation Prompts — 30 Copy-Paste Prompts for ChatGPT & Claude (2027)
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary"><img src="https://img.shields.io/badge/Chrome_Extension-Enhance_prompts_inside_ChatGPT_%26_Claude-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PromptIt Chrome extension"></a>
+  <a href="https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=top"><img src="https://img.shields.io/badge/promptitin.com-Write_my_prompt_for_me-7C3AED?style=for-the-badge" alt="PromptIt"></a>
+</p>
+
+> ⚡ **Don't want to fill in the `[brackets]` yourself?** [PromptIt](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=top) writes the full prompt for your exact situation in seconds.
+> Using ChatGPT, Claude or Lovable? The **[free Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)** adds a one-click **Enhance** button right inside the chat box.
+
+**[⭐ Star the repo](https://github.com/shakirdmr/ai-prompt-library)** so you can find it again — new prompts are added every month.
+
 
 ## What is this?
 
@@ -18,11 +29,11 @@ Every prompt here uses a professional framework used by experienced AI practitio
 | **CONSTRAINTS** | Sets the rules — tone, length, what to avoid |
 | **OUTPUT FORMAT** | Specifies exactly how the answer should be structured |
 
-**Plus a power footer** — each prompt ends with an instruction that triggers the AI to ask clarifying questions, think step by step, and suggest what to do next. This is the difference between an average AI user and a power user.
+**Plus a power footer** — each prompt ends with an instruction that triggers the AI to ask clarifying questions, check the latest data, and suggest what to do next. This is the difference between an average AI user and a power user.
 
 ## How to use this
 
-1. Open [ChatGPT](https://chat.openai.com) or [Claude](https://claude.ai) — both free to use
+1. Open [ChatGPT](https://chatgpt.com) or [Claude](https://claude.ai) — both free to use
 2. Find the section that matches your situation
 3. Copy the full prompt from the code block
 4. Replace everything inside `[brackets]` with your real information
@@ -67,9 +78,11 @@ OUTPUT FORMAT:
 - What drives you to the bottom: [3-4 specific factors]
 - Sources to check: [3 named sources with what they are best for]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Knowing your market range before any negotiation is the single most important preparation step — negotiating without a number is like haggling without knowing the fair price.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p1) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -101,9 +114,11 @@ OUTPUT FORMAT:
 - Strongest argument for the counter: [one sentence]
 - Weakest point in my case: [one sentence — so I'm not caught off guard]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *A quick sanity check on whether an offer is fair and what a reasonable counter looks like — most people negotiate blindly without knowing if they are asking for 10% more or 40% more.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p2) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -135,9 +150,11 @@ OUTPUT FORMAT:
 - Objection responses: [3 likely pushbacks + how to respond to each]
 - Closing: [one sentence — clear ask with a date for follow-up]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Building a structured case before the conversation is what separates people who get raises from people who ask politely and walk away with nothing — this produces a tight, difficult-to-decline argument.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p3) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -167,9 +184,11 @@ OUTPUT FORMAT:
 - Your fear addressed: [2-3 sentences — how common is it + what to say if it actually happens]
 - What to have in front of you during the conversation: [3-4 items]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *First-time negotiators who want a concrete checklist — knowing what to prepare eliminates the anxiety of walking in underprepared and accepting a number you'll regret.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p4) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -199,9 +218,11 @@ OUTPUT FORMAT:
 - Which is better given my priorities: [one paragraph — honest assessment]
 - What to negotiate in the new offer: [3 specific items with suggested ask amounts]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Understanding what to negotiate for — comparing total compensation packages is more complex than comparing salaries, especially when equity, bonuses, and benefits differ significantly.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p5) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 ---
 
@@ -238,9 +259,11 @@ OUTPUT FORMAT:
 - Email: [under 200 words]
 - What to say if they call me instead of responding by email: [2-3 sentence script]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *A polished counter-offer email you can send immediately after receiving an offer — brief and confident is more effective than long and over-explained.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p6) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -272,9 +295,11 @@ OUTPUT FORMAT:
 - Closing: [how to end the call with momentum in my favour]
 - What to have in front of me: [bulleted list]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Having a script means you won't freeze or forget your key points when negotiating in real time — most people under-negotiate on the phone because they get flustered.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p7) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -305,9 +330,11 @@ OUTPUT FORMAT:
 - Response 3 (bold): [best when you have competing offers or strong leverage]
 - If they insist: [exactly what to say]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Whoever names a number first is usually at a disadvantage — these responses let you deflect professionally and get the employer to anchor first, which gives you more room to negotiate.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p8) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -337,9 +364,11 @@ OUTPUT FORMAT:
 - Script: [how to introduce the conversation + one ask at a time]
 - For each item: [likely response + my fallback if they say no]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *When the base salary truly cannot move, there is often significant flexibility in signing bonuses, PTO, remote work, and review timelines — this prompt extracts that value systematically.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p9) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -369,9 +398,11 @@ OUTPUT FORMAT:
 - Email: [under 150 words]
 - What to do if they do not reply within 48 hours: [one sentence]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Brief and confident is more effective than long and over-explained — this is the short version for candidates who know what they want and do not want to over-explain.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p10) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 ---
 
@@ -410,9 +441,11 @@ OUTPUT FORMAT:
 - Likely objection + my response: [the most common pushback + how to handle it]
 - What to do before the conversation: [the one thing most people skip]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *The annual or mid-year raise conversation — giving the AI your real achievements and current salary produces a tight, evidence-based script that is much harder to dismiss than "I've been here a while."*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p11) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -443,9 +476,11 @@ OUTPUT FORMAT:
 - Primary ask: [specific and modest]
 - Fallback options: [3 alternatives if cash raise is not possible — e.g. early review, title change, extra PTO]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Asking for a raise during a difficult business period — framing matters enormously here. Acknowledging the company's situation while making a personal case is far more effective than ignoring it.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p12) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -475,9 +510,11 @@ OUTPUT FORMAT:
 - Transition line: [one sentence that moves from review to compensation]
 - Salary ask script: [60-90 seconds — specific ask + reasoning]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Structuring your performance review conversation so it naturally leads to a salary discussion — most people wait to be offered more instead of creating the opening themselves.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p13) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -507,9 +544,11 @@ OUTPUT FORMAT:
 - When to send it: [day/time + reasoning]
 - What to say if they ask "what's this about?": [one sentence]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Setting up the conversation — never make the ask over email or Slack if you can avoid it. This produces the right meeting-request message that gets a yes without triggering questions.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p14) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -539,9 +578,11 @@ OUTPUT FORMAT:
 - What to say if they still delay: [a 2-sentence verbal response for your next 1-on-1]
 - When this becomes a signal about the company: [1-2 sentences — when "I'll think about it" is actually a soft no]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Following up without appearing pushy — silence is often just busy, not a no. But knowing when it becomes a no is equally important.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p15) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 ---
 
@@ -577,9 +618,11 @@ OUTPUT FORMAT:
 - If I have external options: [how to mention them ethically — exact phrasing]
 - Follow-up email after the meeting: [confirm the timeline in writing — under 60 words]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *"Budget frozen" situations — always get a specific date to revisit, not a vague "later." A vague future promise is worth nothing without a specific date and agreed criteria.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p16) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -610,9 +653,11 @@ OUTPUT FORMAT:
 - Signal that they are at their ceiling: [how to read whether further pushing will damage the offer]
 - Exact phrase to use when accepting gracefully: [one sentence that closes well]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *When they push back but haven't said a hard no — there is usually room to meet in the middle, but only if you hold your position long enough to find it.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p17) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -643,9 +688,11 @@ OUTPUT FORMAT:
 - If they refuse: [what the law says in the US / UK / EU — one sentence per region]
 - If it is confirmed true: [3 alternative moves — e.g. promotion path, title change, transfer to a higher band]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *"Top of band" is a common negotiation tactic — you have a right to see the actual range, and in many jurisdictions employers are legally required to share it.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p18) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -676,9 +723,11 @@ OUTPUT FORMAT:
 - If I have already waited once: [how to raise it calmly in one sentence]
 - Red flag: [when "wait until your review" is actually a soft no — what signs to watch for]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Turning "wait until your review" into a concrete, documented commitment — a verbal promise without criteria is worth nothing. This gets specific numbers and a date in writing.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p19) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -709,9 +758,11 @@ OUTPUT FORMAT:
 - Stop signal: [3 specific signals that further pushing will backfire]
 - Graceful acceptance: [one sentence if they hold firm]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *When the first counter got a tiny bump — one more respectful push often works, but knowing when to stop is just as important as knowing how to push.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p20) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 ---
 
@@ -746,9 +797,11 @@ OUTPUT FORMAT:
 - What to negotiate in the new offer: [prioritised list with reasoning]
 - Opening script for the total comp conversation: [what to say to shift from "salary" to "total package"]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Tech and finance roles where total compensation is much more complex than the base salary — most people make worse decisions because they compare the wrong numbers.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p21) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -777,9 +830,11 @@ OUTPUT FORMAT:
 - Equity reality check: [realistic value at low / medium / high outcome scenarios]
 - Negotiation script: [how to use this understanding to negotiate — includes specific ask]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Beginners who have never dealt with equity, RSUs, or bonus structures before — understanding what you own before you negotiate it is the only way to negotiate it correctly.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p22) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -809,9 +864,11 @@ OUTPUT FORMAT:
 - Reasonable ask range: [what most companies will do / what is too aggressive]
 - What to do if they say no to a signing bonus: [2 alternative asks]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Companies often cover unvested equity with a signing bonus if you ask — most candidates don't know this is standard practice and leave that money on the table.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p23) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -841,9 +898,11 @@ OUTPUT FORMAT:
 - Fallback position: [what to ask for if 100% remote is a no — e.g. 1 day/week in office, async-first agreement]
 - Phrases to avoid: [3-4 framings that make the ask sound like a demand rather than a proposal]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Remote work is often negotiable even when the job is listed as hybrid or in-office — the key is framing it around outcomes, not preference.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p24) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -873,9 +932,11 @@ OUTPUT FORMAT:
 - Proposed targets: [3-5 specific, measurable outcomes I can commit to in 90 days]
 - Written agreement language: [what to ask them to add to the offer letter or confirm by email]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *When you accept a lower offer with the expectation of a quick raise — get the review date and raise criteria in writing before you sign, not as a verbal promise.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p25) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 ---
 
@@ -911,9 +972,11 @@ OUTPUT FORMAT:
 - Language that tends to backfire in this environment: [3-4 specific phrases to avoid + why]
 - Replacement phrases: [3 moments where people hedge + confident alternatives]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *A direct, strong approach that addresses the specific challenge of negotiating in environments where assertiveness is perceived differently — the language matters as much as the ask itself.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p26) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -944,9 +1007,11 @@ OUTPUT FORMAT:
 - The mistake most graduates make: [2-3 sentences]
 - What to do if they say no: [one sentence — how to accept gracefully without bitterness]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *First-job negotiation — even entry-level salaries are often negotiable by $2,000–$5,000, and most graduates leave that money on the table simply because they did not ask.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p27) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -977,9 +1042,11 @@ OUTPUT FORMAT:
 - Ethical limits: [what is acceptable use of a competing offer vs. what crosses a line]
 - How to handle: "If you take the other offer, that's okay" — [what to say if they don't budge]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Competing offers are the most powerful negotiation leverage you can have — used professionally, this almost always works. Used badly, it damages both relationships.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p28) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -1010,9 +1077,11 @@ OUTPUT FORMAT:
 - Negotiation script: [how to present this calculation to justify a higher salary ask — 2 minutes]
 - Target salary: [specific number]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Freelancers transitioning to full-time often undercharge because they forget to factor in benefits, taxes, stability, and the overhead they currently self-fund — this prompt gets the math right.*
+
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p29) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
 
 &nbsp;
 
@@ -1042,13 +1111,22 @@ OUTPUT FORMAT:
 - Email: [under 200 words — one combined ask for 2-3 items]
 - What to do if they say no to everything: [2-sentence response — accept or reopen base salary]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Benefits negotiation — most people forget these are negotiable and they add up to $5,000–$15,000 in annual value. A remote work stipend, learning budget, and extra PTO cost the company very little and matter a lot over a year.*
 
+<sub>⚡ [Get this prompt written for your offer →](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=p30) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)</sub>
+
 ---
 
-> **Want AI to help with your specific negotiation situation?**
-> Try **[PromptIt](https://promptitin.com)** — free AI prompt enhancer used by thousands of professionals.
->
-> Related guide: [How to Write Better AI Prompts](https://promptitin.com/guides/what-is-prompt-engineering)
+## Get better results from every prompt
+
+| | |
+|---|---|
+| ⚡ **[PromptIt](https://promptitin.com/use-cases/negotiate-a-salary?utm_source=github&utm_medium=prompt-library&utm_campaign=salary&utm_content=footer)** | Type a rough idea, get a structured, expert-level prompt back. Free to start. |
+| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=salary)** | Improve prompts without leaving ChatGPT, Claude, Lovable, Bolt, Replit or v0. |
+| 📘 **[Prompt engineering guide](https://promptitin.com/guides/what-is-prompt-engineering?utm_source=github&utm_medium=prompt-library&utm_campaign=salary)** | Why these prompts work, and how to write your own. |
+
+**If this saved you time, [⭐ star the repo](https://github.com/shakirdmr/ai-prompt-library)** — it's the only way others find it. Want to say thanks? [☕ Buy me a coffee](https://buymeacoffee.com/shakirdmr).
+
+[← Back to all categories](../README.md)

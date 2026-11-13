@@ -13,9 +13,16 @@ Thank you for helping make this the best free prompt library on the internet.
 
 ````
 ```
-Your prompt goes here — be as specific as possible. Include [brackets] for parts the user should replace.
+ROLE: ...
+CONTEXT: ... [brackets] for anything the reader replaces
+TASK: ...
+CONSTRAINTS: ...
+OUTPUT FORMAT: ...
+
+> Before you start: ...
 ```
-> What this does: One clear sentence explaining what output this prompt produces and when to use it.
+
+*One sentence: what this prompt produces and when to use it.*
 ````
 
 5. Submit a pull request with a short description of what you added
@@ -26,16 +33,17 @@ If you have 20+ prompts for a topic that doesn't exist yet:
 
 1. Create a new folder with a keyword-rich name (e.g. `email-writing-prompts/`)
 2. Add a `README.md` inside it following the structure of existing category files
-3. Update the root `README.md` to include the new category in the table
+3. Update the root `README.md` table and the category list in `index.html`
 4. Submit a pull request
 
 ### Guidelines
 
 - **Be specific.** Vague prompts give vague results. Every prompt should include context, a goal, a format, and constraints where relevant.
 - **Use `[brackets]`** for any part the user needs to replace with their own information.
-- **Add a "What this does:" line** beneath every prompt — one sentence, plain English, explaining the output and when to use it.
+- **Add an italic description** beneath every prompt — one sentence, plain English, explaining the output and when to use it.
+- **Write for 2027 models.** End structured prompts with a footer that asks the AI to ask before guessing, check the latest data when it can search, and suggest a next step. Don't add "think step by step"; reasoning models already do.
 - **No duplicates.** Check if a similar prompt already exists before adding.
-- **No self-promotion.** Prompts must be useful first. Links are only allowed in the footer section.
+- **No self-promotion.** Prompts must be useful first. No links inside prompts. The PromptIt links under each prompt are added by the maintainer, so leave them out of your PR.
 - **Test your prompts.** Paste it into ChatGPT or the relevant AI tool before submitting to confirm it works.
 
 ## What makes a great prompt
@@ -54,4 +62,4 @@ The more of these you include, the better the AI output.
 
 ## Questions?
 
-Open an issue or visit [PromptIt](https://promptitin.com) — a free tool that helps you build better prompts automatically.
+Open an issue or visit [PromptIt](https://promptitin.com/?utm_source=github&utm_medium=prompt-library&utm_campaign=contributing) — a free tool that helps you build better prompts automatically.

@@ -1,8 +1,19 @@
-# SEO Prompts — 10 Deep Structured Prompts
+# SEO Prompts — 13 Deep Prompts for ChatGPT & Claude (2027)
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo"><img src="https://img.shields.io/badge/Chrome_Extension-Enhance_prompts_inside_ChatGPT_%26_Claude-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PromptIt Chrome extension"></a>
+  <a href="https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=top"><img src="https://img.shields.io/badge/promptitin.com-Write_my_prompt_for_me-7C3AED?style=for-the-badge" alt="PromptIt"></a>
+</p>
+
+> ⚡ **Don't want to fill in the `[brackets]` yourself?** [PromptIt](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=top) writes the full prompt for your exact situation in seconds.
+> Using ChatGPT, Claude or Lovable? The **[free Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)** adds a one-click **Enhance** button right inside the chat box.
+
+**[⭐ Star the repo](https://github.com/shakirdmr/ai-prompt-library)** so you can find it again — new prompts are added every month.
+
 
 ## What is this?
 
-This is a collection of 10 structured prompts for doing professional SEO work with **ChatGPT** or **Claude** — from keyword research to content strategy, page audits, and building your first 6-month plan.
+This is a collection of 13 structured prompts for doing professional SEO work with **ChatGPT** or **Claude** — from keyword research to content strategy, page audits, and building your first 6-month plan.
 
 Every prompt in this file follows the same five-part structure used by professional prompt engineers:
 
@@ -14,7 +25,7 @@ Every prompt in this file follows the same five-part structure used by professio
 | **CONSTRAINTS** | Rules the AI must follow — keeps output focused and useful |
 | **OUTPUT FORMAT** | Tells the AI exactly what the response should look like |
 
-Plus every prompt ends with a **power line** that triggers three advanced techniques automatically: asking for missing info before starting, thinking step by step, and suggesting what to do next.
+Plus every prompt ends with a **power line** that triggers three advanced techniques automatically: asking for missing info before starting, checking the latest data, and suggesting what to do next.
 
 **You don't need to understand any of this.** Just copy, fill in your details, and paste. The structure does the work.
 
@@ -22,7 +33,7 @@ Plus every prompt ends with a **power line** that triggers three advanced techni
 
 ## How to use this
 
-1. Open [ChatGPT](https://chat.openai.com) or [Claude](https://claude.ai) — both free
+1. Open [ChatGPT](https://chatgpt.com) or [Claude](https://claude.ai) — both free
 2. Copy the full prompt including every section
 3. Replace everything inside `[brackets]` with your real information
 4. Paste and send
@@ -62,9 +73,11 @@ OUTPUT FORMAT:
 - Below that: a "Start here" recommendation with 2–3 sentences of reasoning
 - Keep the full response under 600 words
 
-> Before you start: If anything in my context is missing or would significantly change your recommendations, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your keyword list even more accurate, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or would significantly change your recommendations, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your keyword list even more accurate, and (2) the best next prompt I should run after this one.
 ```
 *Builds your entire keyword strategy from scratch — gives you a prioritised list of keywords you can actually rank for, not just popular ones dominated by major sites.*
+
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p1) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
 
 &nbsp;
 
@@ -111,6 +124,8 @@ OUTPUT FORMAT:
 ```
 *A full SEO blueprint before you write a single word — so the article is built for ranking from the start, not patched afterwards.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p2) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **3. On-Page SEO Audit**
@@ -155,6 +170,8 @@ OUTPUT FORMAT:
 ```
 *A professional SEO audit of one specific page — exact rewrites included, not vague recommendations.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p3) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **4. Title Tags & Meta Descriptions**
@@ -192,6 +209,8 @@ OUTPUT FORMAT:
 > Before you start: If my context is missing information that would affect the copy, ask me one question. Write each variation with a genuinely different angle — not just word swaps. When done, tell me: (1) how to test which title performs best, and (2) the next SEO action I should take after optimising this page's metadata.
 ```
 *5 ready-to-use title and meta description pairs — the fastest way to improve your Google click-through rate without changing a word of your content.*
+
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p4) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
 
 &nbsp;
 
@@ -231,6 +250,8 @@ OUTPUT FORMAT:
 > Before you start: If my data is incomplete or ambiguous, ask me one clarifying question. Then analyse the data pattern before making recommendations. When done, tell me: (1) what to check again in 30 days to know if it worked, and (2) the best next prompt to run based on what you found.
 ```
 *Turns confusing Search Console numbers into a clear action plan — so you know exactly what to fix and in what order.*
+
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p5) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
 
 &nbsp;
 
@@ -274,6 +295,8 @@ OUTPUT FORMAT:
 ```
 *A complete internal linking plan with ready-to-paste sentences — the highest-ROI SEO task most beginners never do.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p6) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **7. Competitor SEO Gap Analysis**
@@ -316,6 +339,8 @@ OUTPUT FORMAT:
 ```
 *Finds the specific content gaps in competitor pages you can exploit — so you build with a real ranking advantage from the start.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p7) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **8. SEO Blog Introduction Writer**
@@ -351,6 +376,8 @@ OUTPUT FORMAT:
 > Before you start: If my reader profile or article topic is too vague, ask me one specific question. Write each version as if you are the reader — would you keep reading? When done, tell me: (1) one addition that would make the strongest intro even better, and (2) the next section of the article I should ask you to write.
 ```
 *3 ready-to-use blog introductions that hook readers and signal quality to Google — the first 150 words are the most important on any page.*
+
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p8) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
 
 &nbsp;
 
@@ -393,6 +420,8 @@ OUTPUT FORMAT:
 ```
 *A concrete local SEO plan for appearing in Google Maps and "near me" searches — the most important SEO channel for any local business.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p9) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **10. 6-Month SEO Roadmap from Zero**
@@ -432,6 +461,8 @@ OUTPUT FORMAT:
 > Before you start: If my current status or goal is too vague to build a specific plan, ask me one question. Build the plan month by month in sequence — each phase should set up the next one. When done, tell me: (1) which month will feel like "nothing is working" — and how to push through it, and (2) the first prompt I should run to begin executing month one.
 ```
 *A full 6-month SEO roadmap from scratch — a specific, compounding sequence that builds momentum month by month.*
+
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p10) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
 
 ---
 
@@ -480,6 +511,8 @@ OUTPUT FORMAT:
 ```
 *Tells you whether pSEO is right for your site and which template types to build — the research step most people skip before generating hundreds of low-quality pages.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p11) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **12. PSEO Page Template Builder**
@@ -521,6 +554,8 @@ OUTPUT FORMAT:
 ```
 *A production-ready page template with clear variable placeholders — built to produce pages that rank, not pages that get filtered as duplicate or thin content.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p12) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 &nbsp;
 
 **13. PSEO Content Quality & Thin Content Audit**
@@ -560,7 +595,18 @@ OUTPUT FORMAT:
 ```
 *Audits your pSEO pages for the exact signals Google uses to filter them — so you can fix thin content problems before they kill your indexing rate.*
 
+<sub>⚡ [Get this prompt written for your site →](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=p13) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)</sub>
+
 ---
 
-> **These prompts are built with the same structure used by professional prompt engineers.**
-> If you want AI to build structured prompts like these automatically for any topic, try **[PromptIt](https://promptitin.com)** — free, no account needed.
+## Get better results from every prompt
+
+| | |
+|---|---|
+| ⚡ **[PromptIt](https://promptitin.com/for/seo-specialists?utm_source=github&utm_medium=prompt-library&utm_campaign=seo&utm_content=footer)** | Type a rough idea, get a structured, expert-level prompt back. Free to start. |
+| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=seo)** | Improve prompts without leaving ChatGPT, Claude, Lovable, Bolt, Replit or v0. |
+| 📘 **[Prompt engineering guide](https://promptitin.com/guides/what-is-prompt-engineering?utm_source=github&utm_medium=prompt-library&utm_campaign=seo)** | Why these prompts work, and how to write your own. |
+
+**If this saved you time, [⭐ star the repo](https://github.com/shakirdmr/ai-prompt-library)** — it's the only way others find it. Want to say thanks? [☕ Buy me a coffee](https://buymeacoffee.com/shakirdmr).
+
+[← Back to all categories](../README.md)

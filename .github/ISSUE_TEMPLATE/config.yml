@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Get a prompt written for your exact situation
+    url: https://promptitin.com/?utm_source=github&utm_medium=prompt-library&utm_campaign=issues
+    about: PromptIt turns a one-line idea into a full structured prompt.

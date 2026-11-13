@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="AI Prompt Library — 200+ copy-paste prompts for ChatGPT, Claude, Gemini and Midjourney">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0B14"/>
+      <stop offset="1" stop-color="#1A1033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="80" y="120" fill="#A1A1AA" font-size="22" letter-spacing="4">OPEN SOURCE · MIT · UPDATED FOR 2027</text>
+    <text x="80" y="200" fill="#FAFAFA" font-size="68" font-weight="700">AI Prompt Library</text>
+    <text x="80" y="262" fill="url(#accent)" font-size="34" font-weight="600">200+ copy-paste prompts that actually work</text>
+    <text x="80" y="320" fill="#D4D4D8" font-size="24">ChatGPT · Claude · Gemini · Midjourney · Sora · Lovable · Cursor</text>
+  </g>
+  <g transform="translate(930 92)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">
+    <rect width="270" height="220" rx="14" fill="#111827" stroke="#312E81"/>
+    <text x="22" y="44" fill="#A78BFA">ROLE:</text>
+    <text x="22" y="78" fill="#60A5FA">CONTEXT:</text>
+    <text x="22" y="112" fill="#34D399">TASK:</text>
+    <text x="22" y="146" fill="#FBBF24">CONSTRAINTS:</text>
+    <text x="22" y="180" fill="#F472B6">OUTPUT FORMAT:</text>
+  </g>
+</svg>

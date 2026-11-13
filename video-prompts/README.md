@@ -1,4 +1,15 @@
-# Video Prompts — 50 Free Copy-Paste Examples
+# Video Prompts — 50 Copy-Paste Prompts for YouTube, Shorts, Sora & Veo (2027)
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video"><img src="https://img.shields.io/badge/Chrome_Extension-Enhance_prompts_inside_ChatGPT_%26_Claude-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PromptIt Chrome extension"></a>
+  <a href="https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=top"><img src="https://img.shields.io/badge/promptitin.com-Write_my_prompt_for_me-7C3AED?style=for-the-badge" alt="PromptIt"></a>
+</p>
+
+> ⚡ **Don't want to fill in the `[brackets]` yourself?** [PromptIt](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=top) writes the full prompt for your exact situation in seconds.
+> Using ChatGPT, Claude or Lovable? The **[free Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)** adds a one-click **Enhance** button right inside the chat box.
+
+**[⭐ Star the repo](https://github.com/shakirdmr/ai-prompt-library)** so you can find it again — new prompts are added every month.
+
 
 ## What is this?
 
@@ -18,18 +29,18 @@ Every prompt here uses a professional framework that tells the AI exactly who to
 | **CONSTRAINTS** | Rules on tone, format, and what to avoid |
 | **OUTPUT FORMAT** | Exactly how the response should be structured |
 
-**Plus a power footer** on every prompt — triggers the AI to ask for missing details first, think step by step, and suggest what to do next.
+**Plus a power footer** on every prompt — triggers the AI to ask for missing details first, check the latest data, and suggest what to do next.
 
 ## How to use this
 
-1. Open [ChatGPT](https://chat.openai.com), [Claude](https://claude.ai), or [Gemini](https://gemini.google.com) — all free
+1. Open [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or [Gemini](https://gemini.google.com) — all free
 2. Find the section that matches where you are in your video creation process
 3. Copy the full prompt including every section
 4. Replace everything inside `[brackets]` with your real information
 5. Paste and send
 
 > **Works with:** ChatGPT, Claude, Gemini — for all scripts, ideas, hooks, descriptions, and strategy.
-> For AI video generation (Runway, Sora, Pika), see the prompts in the [AI Image Prompts](../ai-image-prompts/) section as a starting point for visual direction.
+> For AI video generation (Sora 2, Veo 3, Runway, Kling), jump to [AI Video Generation](#ai-video-generation) at the bottom of this page.
 
 ---
 
@@ -71,6 +82,8 @@ OUTPUT FORMAT:
 ```
 *Produces 10 specific, differentiated video ideas ranked by search vs. social potential — with a clear recommendation on which to make first.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p1) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **2.**
@@ -101,6 +114,8 @@ OUTPUT FORMAT:
 > Before you start: If my niche is too broad for targeted research, ask me one question to narrow it. Think like the viewer first, then the creator. When done, tell me: (1) one topic pattern in my niche that keeps appearing across multiple questions, and (2) how to turn these five ideas into a one-month content plan.
 ```
 *Surfaces real questions your audience is already asking but finding poor answers for — the fastest path to search traffic for a new or small channel.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p2) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -135,6 +150,8 @@ OUTPUT FORMAT:
 ```
 *A complete multi-episode series plan with episode titles that work as standalone search terms — the difference between a channel viewers subscribe to and one they visit once.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p3) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **4.**
@@ -166,6 +183,8 @@ OUTPUT FORMAT:
 > Before you start: If the topic is too vague to generate specific angles, ask me one question. Think about what would make a viewer choose my video over the 30 others that already exist. When done, tell me: (1) one element I could add to make the winner angle even more differentiated, and (2) the next prompt to write the full script for it.
 ```
 *Finds the angle that cuts through a crowded topic — the difference between making the 50th "how to save money" video and making the one that actually gets watched.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p4) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -201,6 +220,8 @@ OUTPUT FORMAT:
 > Before you start: If my idea is too vague for a specific assessment, ask me one question. Evaluate each dimension independently before giving a verdict. When done, tell me: (1) what would make this a clearly strong idea rather than a borderline one, and (2) the next step whether the verdict is go, refine, or drop.
 ```
 *A stress-test for your video idea before you film it — saves hours of work on content that was never going to perform.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p5) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -245,6 +266,8 @@ OUTPUT FORMAT:
 ```
 *A full production-ready YouTube script — with on-screen text suggestions and pacing notes — that holds attention from the first second to the last.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p6) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **7.**
@@ -282,6 +305,8 @@ OUTPUT FORMAT:
 ```
 *A structured tutorial script with step-by-step instructions, built for clarity — so viewers follow through to the end instead of getting lost and closing the tab.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p7) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **8.**
@@ -316,6 +341,8 @@ OUTPUT FORMAT:
 > Before you start: If my business type or video goal is too vague, ask me one question. Write from the viewer's perspective first — what do they recognise before they recognise us? When done, tell me: (1) the line most likely to lose viewer attention and how to tighten it, and (2) the best distribution strategy for this video given where it lives.
 ```
 *A 60-90 second brand video script that communicates what you do in the first 10 seconds — built for a real person to deliver on camera, not a polished actor.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p8) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -355,6 +382,8 @@ OUTPUT FORMAT:
 ```
 *A personal narrative video script built on a proper story arc — the kind of video people share and re-watch, not just scroll past.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p9) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **10.**
@@ -393,6 +422,8 @@ OUTPUT FORMAT:
 ```
 *A product review script that is actually useful to someone deciding whether to buy — honest, specific, and structured to earn trust rather than just run a script.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p10) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **11.**
@@ -426,6 +457,8 @@ OUTPUT FORMAT:
 > Before you start: If the topic is too broad for a 60-second video, ask me one question to narrow it. Treat every second as deliberate — no filler. When done, tell me: (1) the moment most likely to cause a swipe-away and how to tighten it, and (2) how to expand this into a longer YouTube video.
 ```
 *A tight 60-90 second educational script with three hook variations to test — one insight, no filler, built to hold attention on short-form feeds.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p11) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -462,6 +495,8 @@ OUTPUT FORMAT:
 > Before you start: If my notes are too fragmented to extract a clear structure, ask me one question. Treat my notes like raw clay — your job is to shape, not add. When done, tell me: (1) the transition that needs the most work before I film, and (2) the best next prompt to write the hook for this video.
 ```
 *Turns messy notes and brain dumps into a clean, filmable script — the prompt to use when you have the ideas but cannot get them into order.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p12) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -500,6 +535,8 @@ OUTPUT FORMAT:
 > Before you start: If my subject or emotional core is too vague, ask me one question. Build the structure around the emotional journey, not the chronological facts. When done, tell me: (1) the shot that will make or break this video, and (2) how to repurpose this into a 60-second social cut.
 ```
 *A documentary structure plan, opening and closing scripts, shot list, and interview questions — everything needed to produce a real story-driven video without a film crew.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p13) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -544,6 +581,8 @@ OUTPUT FORMAT:
 ```
 *Five completely different hook styles for the same video — with the psychological trigger explained for each, so you understand why one works better than another.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p14) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **15.**
@@ -578,6 +617,8 @@ OUTPUT FORMAT:
 ```
 *A line-by-line rewrite of your current video opening — with an explanation of what was wrong and what was changed, so you learn what to do differently next time.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p15) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **16.**
@@ -610,6 +651,8 @@ OUTPUT FORMAT:
 > Before you start: If my topic is too vague to design a specific interrupt, ask me one question. Think about what would genuinely surprise someone who thought they already knew this topic. When done, tell me: (1) what to do in the 20 seconds after the interrupt to not disappoint the viewer, and (2) how to measure if the interrupt worked after publishing.
 ```
 *Three pattern interrupt opening concepts — designed to break the viewer's autopilot and earn attention without being misleading.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p16) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -645,6 +688,8 @@ OUTPUT FORMAT:
 ```
 *A problem-recognition hook that makes the viewer feel instantly understood — the most powerful type of opening for any educational or advice-based video.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p17) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **18.**
@@ -677,6 +722,8 @@ OUTPUT FORMAT:
 > Before you start: If my opening plan has fundamental problems, name them before writing the rewrite. Work beat by beat, not as a continuous paragraph. When done, tell me: (1) the single beat I should rehearse most before filming, and (2) whether my topic would benefit from a longer or shorter opening than 60 seconds.
 ```
 *A beat-by-beat 60-second opening structure — down to the second — so every moment before the first minute earns the next one.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p18) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -719,6 +766,8 @@ OUTPUT FORMAT:
 ```
 *A complete shot list for a talking head video — including B-roll descriptions, framing notes, and which script section each shot supports.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p19) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **20.**
@@ -754,6 +803,8 @@ OUTPUT FORMAT:
 > Before you start: If my video topic or location is too vague for specific shots, ask me one question. Think about what a viewer's eye naturally wants to see during each section of the video. When done, tell me: (1) the shot that most beginners miss and regret missing in the edit, and (2) how to organise my footage folders after filming to make editing easier.
 ```
 *15 specific B-roll shots organised by filming location — so you capture everything in one session without forgetting the shots that make the biggest difference in the edit.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p20) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -792,6 +843,8 @@ OUTPUT FORMAT:
 ```
 *A product video shot list that prioritises usefulness over aesthetics — the shots that help a viewer make a decision, not just look at something pretty.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p21) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **22.**
@@ -828,6 +881,8 @@ OUTPUT FORMAT:
 > Before you start: If my interview goal or questions are too vague, ask me one question. Design the setup for the edit — what shots will you need to cut between? When done, tell me: (1) the question most likely to produce the most compelling footage, and (2) how to handle it if the subject freezes or gives a one-sentence answer.
 ```
 *A complete interview shoot plan — camera setup, rewritten questions, a pre-interview brief for your subject, and a pre-record checklist.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p22) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -869,6 +924,8 @@ OUTPUT FORMAT:
 ```
 *Eight YouTube title variations across every major format — scored on both search and click performance, so you understand the trade-off before you publish.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p23) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **24.**
@@ -906,6 +963,8 @@ OUTPUT FORMAT:
 ```
 *A complete thumbnail brief you can hand to a designer or execute yourself in Canva — exact text, layout, colours, and two concept options.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p24) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **25.**
@@ -942,6 +1001,8 @@ OUTPUT FORMAT:
 > Before you start: If my thumbnail description is too vague for a specific diagnosis, ask me one question. Look at the thumbnail the way a viewer sees it — 1.5 seconds, thumbnail-sized, surrounded by competing videos. When done, tell me: (1) how to test the new thumbnail without republishing the video, and (2) what CTR to aim for in my niche.
 ```
 *A specific diagnosis of why your current thumbnail is underperforming — with a revised brief and the single highest-impact change to make.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p25) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -988,6 +1049,8 @@ OUTPUT FORMAT:
 ```
 *A full YouTube description with tags, timestamps placeholder, and links — written to rank in both YouTube and Google search.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p26) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **27.**
@@ -1025,6 +1088,8 @@ OUTPUT FORMAT:
 ```
 *Three caption variations for a Short or Reel — optimised for search, the algorithm, and real humans — plus a hashtag strategy and first-comment tactic.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p27) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **28.**
@@ -1060,6 +1125,8 @@ OUTPUT FORMAT:
 > Before you start: If my outline is too vague for specific chapter titles, ask me one question. Write chapters the way a viewer navigates a textbook — they should be able to find exactly what they want by reading the list. When done, tell me: (1) how to add chapters in YouTube Studio, and (2) how to verify which chapter titles YouTube is indexing in search.
 ```
 *Chapter titles written for both viewer navigation and keyword indexing — so YouTube surfaces individual sections of your video in search results.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p28) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -1103,6 +1170,8 @@ OUTPUT FORMAT:
 ```
 *A short-form content strategy broken down by platform — with content pillars, a one-week calendar, and the niche-specific mistake most creators make.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p29) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **30.**
@@ -1139,6 +1208,8 @@ OUTPUT FORMAT:
 ```
 *Identifies the 5 strongest clips in any YouTube video, writes a new hook for each one, and includes a caption — so repurposing takes 30 minutes, not an afternoon.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p30) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **31.**
@@ -1173,6 +1244,8 @@ OUTPUT FORMAT:
 > Before you start: If the emotion or format is too vague for a specific script, ask me one question. Write every second as a micro-retention tool. When done, tell me: (1) the moment in this script with the highest swipe risk and how to fix it, and (2) how to adapt this script for a different platform format.
 ```
 *A short-form script built for completion rate — with a loop point, three opening line options, and the exact moment where you need a visual retention device.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p31) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1210,6 +1283,8 @@ OUTPUT FORMAT:
 ```
 *Adapts a trending short-form format to your niche with a full script — plus a twist variation that could outperform the original trend.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p32) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **33.**
@@ -1246,6 +1321,8 @@ OUTPUT FORMAT:
 ```
 *A 4-week short-form content calendar built around your actual capacity — with a batching plan and a content bank strategy so you never run out.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p33) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **34.**
@@ -1281,6 +1358,8 @@ OUTPUT FORMAT:
 > Before you start: If my video description is too vague to write specific overlays, ask me one question. Write captions as if the video doesn't exist — the caption alone should make someone want to watch. When done, tell me: (1) how to test which caption drives more comments vs. shares, and (2) one thing to change in my caption strategy that would make the biggest difference.
 ```
 *Three caption options, three on-screen text overlays, and a CTA line — each serving a different algorithm goal, so you choose based on what you need.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p34) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1320,6 +1399,8 @@ OUTPUT FORMAT:
 ```
 *A complete short-form series concept — episode plan, hooks, cliffhangers, a series intro script, and a posting schedule that builds momentum.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p35) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **36.**
@@ -1355,6 +1436,8 @@ OUTPUT FORMAT:
 > Before you start: If my challenge is too vague for targeted advice, ask me one question. Think about what specifically creates the stiffness or awkwardness — the fix must address the cause. When done, tell me: (1) the one habit from this list that will make the biggest immediate difference, and (2) how to evaluate whether my presence has improved after 10 more videos.
 ```
 *Targeted coaching for your specific on-camera challenge — with exercises, a warm-up script, and filming habits you can implement in the next recording session.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p36) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -1399,6 +1482,8 @@ OUTPUT FORMAT:
 ```
 *A channel positioning statement, new About section, and content promise — so every video you make has a clear reason to exist and the right viewers know exactly why to subscribe.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p37) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **38.**
@@ -1433,6 +1518,8 @@ OUTPUT FORMAT:
 > Before you start: If my capacity or growth goal is too vague for specific scheduling, ask me one question. Build the calendar around compounding — each video should make the next one stronger. When done, tell me: (1) the single video in this calendar most likely to drive the biggest growth, and (2) how to adjust the calendar in month two based on what worked.
 ```
 *A 4-week video content calendar with a repeating format and an evaluation checklist — built around your actual capacity, not an aspirational one.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p38) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1471,6 +1558,8 @@ OUTPUT FORMAT:
 ```
 *A batch filming schedule that produces multiple videos in a single session — with a reusable setup plan, pre-session checklist, and energy management strategy.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p39) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **40.**
@@ -1506,6 +1595,8 @@ OUTPUT FORMAT:
 > Before you start: If my platform mix or goal is too vague for specific recommendations, ask me one question. Build the distribution plan around compounding reach — each platform should feed the others where possible. When done, tell me: (1) the platform combination most likely to create a viral loop for my content type, and (2) how to measure cross-platform performance without a dashboard.
 ```
 *A cross-platform distribution plan for every video you make — with a 20-minute post-publish checklist so no platform gets skipped.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p40) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 ---
 
@@ -1551,6 +1642,8 @@ OUTPUT FORMAT:
 ```
 *A data-driven diagnosis of why a specific video underperformed — with a root cause, a retroactive fix, and benchmarks for what good performance looks like.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p41) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **42.**
@@ -1587,6 +1680,8 @@ OUTPUT FORMAT:
 > Before you start: If my drop-off data or script is too vague for specific fixes, ask me one question. Think about what a viewer is experiencing at each drop-off point — boredom, confusion, or feeling like the payoff was delivered. When done, tell me: (1) the retention technique most likely to show results in the next 3 videos, and (2) how watch time connects to the algorithm recommendation engine.
 ```
 *A watch time optimisation audit — diagnoses your two biggest drop-off points and gives specific rewrites, retention techniques, and a structural change for future videos.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p42) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1625,6 +1720,8 @@ OUTPUT FORMAT:
 ```
 *A CTR diagnostic broken down by traffic source — with rewritten titles, a thumbnail test plan, and a realistic benchmark for your specific channel type.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p43) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **44.**
@@ -1662,6 +1759,8 @@ OUTPUT FORMAT:
 ```
 *A comment and community strategy with 5 CTA variations, 3 community posts, and a pinned comment template — plus a specific explanation of how engagement feeds the YouTube algorithm.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p44) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **45.**
@@ -1698,13 +1797,15 @@ OUTPUT FORMAT:
 ```
 *A channel growth audit that finds root causes — not surface problems — with a 30-day action plan and the one metric you are probably not looking at.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p45) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 ---
 
 ## AI Video Generation
 
-*Use these when you want to generate video clips using AI tools like Runway, Pika, Sora, or Kling — the same way the AI Image Prompts work for Midjourney and DALL-E.*
+*Use these when you want to generate video clips using AI tools like Runway, Pika, Sora, or Kling — the same way the AI Image Prompts work for Midjourney, ChatGPT and Gemini.*
 
-> **Tools these prompts work with:** Runway Gen-3, Pika 2.0, Sora (OpenAI), Kling AI, Luma Dream Machine. Paste the prompt text directly into the tool's prompt field.
+> **Tools these prompts work with:** Sora 2, Google Veo 3, Runway Gen-4, Kling, Luma Ray and Pika. Paste the prompt text directly into the tool's prompt field.
 
 &nbsp;
 
@@ -1714,6 +1815,8 @@ Cinematic slow-motion close-up of coffee being poured into a white ceramic cup, 
 ```
 *Generates a premium beverage product clip — works for food brands, lifestyle content, and website hero videos.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p46) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **47.**
@@ -1721,6 +1824,8 @@ Cinematic slow-motion close-up of coffee being poured into a white ceramic cup, 
 A lone figure walking along a misty mountain ridge at dawn, dramatic fog rolling through the valley below, silhouette against a pale pink and orange sky, slow steady camera drift from left to right, cinematic wide shot, 8 seconds
 ```
 *Creates an atmospheric travel or adventure video clip — strong for YouTube intros, brand videos, and motivational content.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p47) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1730,6 +1835,8 @@ Top-down drone-style footage of a turquoise ocean shoreline, gentle waves breaki
 ```
 *Generates a premium travel or resort aerial clip without a drone — works for travel brands, tourism content, and social media.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p48) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 &nbsp;
 
 **49.**
@@ -1737,6 +1844,8 @@ Top-down drone-style footage of a turquoise ocean shoreline, gentle waves breaki
 A timelapse of a city skyline transitioning from golden hour to blue hour to full night, lights flickering on across the skyline, clouds moving fast overhead, camera locked off, high-rise viewpoint, photorealistic, 10 seconds
 ```
 *A day-to-night city timelapse clip — works as a powerful video intro, background loop, or transition in an edit.*
+
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p49) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
 
 &nbsp;
 
@@ -1746,9 +1855,18 @@ Close-up macro footage of a human hand writing in a leather notebook with a foun
 ```
 *Generates a clean, editorial writing or productivity clip — works for coaching brands, newsletters, courses, and personal brand content.*
 
+<sub>⚡ [Get this prompt written for your channel →](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=p50) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)</sub>
+
 ---
 
-> **Want AI to build video scripts, hooks, and titles for your specific topic automatically?**
-> Try **[PromptIt](https://promptitin.com)** — free prompt enhancer that applies professional structure to any idea.
->
-> Related guide: [What is Prompt Engineering?](https://promptitin.com/guides/what-is-prompt-engineering)
+## Get better results from every prompt
+
+| | |
+|---|---|
+| ⚡ **[PromptIt](https://promptitin.com/use-cases/generate-youtube-scripts?utm_source=github&utm_medium=prompt-library&utm_campaign=video&utm_content=footer)** | Type a rough idea, get a structured, expert-level prompt back. Free to start. |
+| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=video)** | Improve prompts without leaving ChatGPT, Claude, Lovable, Bolt, Replit or v0. |
+| 📘 **[Prompt engineering guide](https://promptitin.com/guides/what-is-prompt-engineering?utm_source=github&utm_medium=prompt-library&utm_campaign=video)** | Why these prompts work, and how to write your own. |
+
+**If this saved you time, [⭐ star the repo](https://github.com/shakirdmr/ai-prompt-library)** — it's the only way others find it. Want to say thanks? [☕ Buy me a coffee](https://buymeacoffee.com/shakirdmr).
+
+[← Back to all categories](../README.md)

@@ -1,4 +1,15 @@
-# Resume Writing Prompts — Structured for Expert-Level Results
+# Resume Writing Prompts — 12 Expert Prompts for ChatGPT, Claude & Gemini (2027)
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume"><img src="https://img.shields.io/badge/Chrome_Extension-Enhance_prompts_inside_ChatGPT_%26_Claude-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PromptIt Chrome extension"></a>
+  <a href="https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=top"><img src="https://img.shields.io/badge/promptitin.com-Write_my_prompt_for_me-7C3AED?style=for-the-badge" alt="PromptIt"></a>
+</p>
+
+> ⚡ **Don't want to fill in the `[brackets]` yourself?** [PromptIt](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=top) writes the full prompt for your exact situation in seconds.
+> Using ChatGPT, Claude or Lovable? The **[free Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)** adds a one-click **Enhance** button right inside the chat box.
+
+**[⭐ Star the repo](https://github.com/shakirdmr/ai-prompt-library)** so you can find it again — new prompts are added every month.
+
 
 ## What is this?
 
@@ -40,7 +51,7 @@ TASK:
 3. Describe the lighting setup I can achieve at home without professional gear
 4. Describe the exact expression and pose — where to look, how to position my shoulders
 5. Tell me whether including a photo on my resume is expected or harmful in my target country — and why
-6. If I have no camera: write a detailed Midjourney or DALL-E prompt to generate a professional AI headshot that matches my description
+6. If I have no camera: write a detailed Midjourney, ChatGPT or Gemini image prompt to generate a professional AI headshot that matches my description
 
 CONSTRAINTS:
 - Be specific — not "look professional", but exactly what that means for my industry
@@ -58,6 +69,8 @@ OUTPUT FORMAT:
 > Before you start: If my industry or country is unclear, ask me one question. Give advice specific to my situation, not general guidelines. When done, tell me the one thing most people get wrong with headshots — and how I avoid it.
 ```
 *Covers everything from what to wear to generating an AI headshot — and tells you whether a photo on your resume helps or hurts in your specific country.*
+
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p1) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
 
 ---
 
@@ -101,6 +114,8 @@ OUTPUT FORMAT:
 ```
 *Builds your resume header correctly and rewrites your professional title into a keyword-rich value statement.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p2) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 3. Professional Summary
@@ -142,6 +157,8 @@ OUTPUT FORMAT:
 ```
 *3 ready-to-use summary versions — ATS-optimised, human-readable, and situation-specific.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p3) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 4. Work Experience & Bullet Points
@@ -181,6 +198,8 @@ OUTPUT FORMAT:
 ```
 *Transforms any list of job duties into strong, quantified, ATS-ready resume bullets.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p4) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 5. Skills Section
@@ -218,6 +237,8 @@ OUTPUT FORMAT:
 > Before you start: If my skills list or target role is too vague, ask me one question. Curate aggressively — a tight skills section is stronger than a long one. When done, tell me the one skill category most candidates in my field forget to include.
 ```
 *Turns a messy skills dump into a curated, ATS-optimised section — and flags skills that hurt rather than help.*
+
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p5) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
 
 ---
 
@@ -259,6 +280,8 @@ OUTPUT FORMAT:
 > Before you start: If I have no formal degree but want to apply for a degree-required role, ask me one question before advising. Format for my career stage, not a template. When done, tell me the one education section mistake that makes experienced candidates look junior.
 ```
 *Correctly formats your education for your career stage — and tells you whether it helps or hurts to put it near the top.*
+
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p6) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
 
 ---
 
@@ -303,6 +326,8 @@ OUTPUT FORMAT:
 ```
 *Writes project descriptions that demonstrate real capability — and suggests what to build if you have nothing yet.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p7) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 8. Handling Gaps & Tricky Situations
@@ -341,6 +366,8 @@ OUTPUT FORMAT:
 > Before you start: If my situation is complex or has multiple elements, ask me one question to clarify the most important part. Be direct — I can handle an honest answer. When done, tell me: (1) whether I should proactively address this or wait until asked, and (2) how most candidates make this situation worse than it needs to be.
 ```
 *Direct, honest advice for navigating gaps, layoffs, and non-linear career paths — with exact language for resume, cover letter, and interview.*
+
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p8) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
 
 ---
 
@@ -382,6 +409,8 @@ OUTPUT FORMAT:
 ```
 *ATS optimisation for one specific application — exact rewrites included, not just keyword suggestions.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p9) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 10. Cover Letter
@@ -421,6 +450,8 @@ OUTPUT FORMAT:
 > Before you start: If my reason for wanting the company feels generic, ask me one question to find the real reason. Write the achievement paragraph as a micro-story — setup, action, result. When done, tell me: (1) the weakest sentence and how to improve it, and (2) whether to send this as an email body or attachment for this type of role.
 ```
 *A complete, specific cover letter in 3 paragraphs — written for this company, not just this role.*
+
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p10) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
 
 ---
 
@@ -463,6 +494,8 @@ OUTPUT FORMAT:
 ```
 *Rewrites your LinkedIn profile to attract inbound opportunities — not just look good when someone already knows you.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p11) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
 ## 12. Interview Prep from Resume
@@ -502,7 +535,18 @@ OUTPUT FORMAT:
 ```
 *Predicts the exact questions your resume will generate — with tailored STAR answers and smart questions to ask.*
 
+<sub>⚡ [Get this prompt filled in for your resume →](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=p12) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)</sub>
+
 ---
 
-> **Every prompt in this file uses the same structure professional prompt engineers use.**
-> If you want AI to build prompts like these automatically for your specific situation, try **[PromptIt](https://promptitin.com)** — free, no account needed.
+## Get better results from every prompt
+
+| | |
+|---|---|
+| ⚡ **[PromptIt](https://promptitin.com/use-cases/create-a-resume?utm_source=github&utm_medium=prompt-library&utm_campaign=resume&utm_content=footer)** | Type a rough idea, get a structured, expert-level prompt back. Free to start. |
+| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=resume)** | Improve prompts without leaving ChatGPT, Claude, Lovable, Bolt, Replit or v0. |
+| 📘 **[Prompt engineering guide](https://promptitin.com/guides/what-is-prompt-engineering?utm_source=github&utm_medium=prompt-library&utm_campaign=resume)** | Why these prompts work, and how to write your own. |
+
+**If this saved you time, [⭐ star the repo](https://github.com/shakirdmr/ai-prompt-library)** — it's the only way others find it. Want to say thanks? [☕ Buy me a coffee](https://buymeacoffee.com/shakirdmr).
+
+[← Back to all categories](../README.md)

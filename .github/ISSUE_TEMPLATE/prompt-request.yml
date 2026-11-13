@@ -1,0 +1,22 @@
+name: Prompt request
+description: Ask for a prompt or a whole category that isn't here yet
+title: "[Request] "
+labels: ["prompt-request"]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: What are you trying to do?
+      description: Describe the situation, e.g. "negotiate rent with my landlord" or "write a PRD for Lovable".
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: Which AI tool do you use?
+      placeholder: ChatGPT, Claude, Gemini, Midjourney, Cursor...
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried so far?
+      description: Optional. Paste the prompt you used and what was wrong with the answer.

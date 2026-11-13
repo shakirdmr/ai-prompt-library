@@ -1,4 +1,15 @@
-# Job Search Prompts — 50 Free Copy-Paste Examples
+# Job Search Prompts — 35 Copy-Paste Prompts for ChatGPT, Claude & Gemini (2027)
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search"><img src="https://img.shields.io/badge/Chrome_Extension-Enhance_prompts_inside_ChatGPT_%26_Claude-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PromptIt Chrome extension"></a>
+  <a href="https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=top"><img src="https://img.shields.io/badge/promptitin.com-Write_my_prompt_for_me-7C3AED?style=for-the-badge" alt="PromptIt"></a>
+</p>
+
+> ⚡ **Don't want to fill in the `[brackets]` yourself?** [PromptIt](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=top) writes the full prompt for your exact situation in seconds.
+> Using ChatGPT, Claude or Lovable? The **[free Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)** adds a one-click **Enhance** button right inside the chat box.
+
+**[⭐ Star the repo](https://github.com/shakirdmr/ai-prompt-library)** so you can find it again — new prompts are added every month.
+
 
 ## What is this?
 
@@ -18,11 +29,11 @@ Every prompt here uses a professional framework used by experienced AI practitio
 | **CONSTRAINTS** | Sets the rules — tone, length, what to avoid |
 | **OUTPUT FORMAT** | Specifies exactly how the answer should be structured |
 
-**Plus a power footer** — each prompt ends with an instruction that triggers the AI to ask clarifying questions, think step by step, and suggest what to do next. This is the difference between an average AI user and a power user.
+**Plus a power footer** — each prompt ends with an instruction that triggers the AI to ask clarifying questions, check the latest data, and suggest what to do next. This is the difference between an average AI user and a power user.
 
 ## How to use this
 
-1. Open [ChatGPT](https://chat.openai.com), [Claude](https://claude.ai), or [Gemini](https://gemini.google.com) — all free to use
+1. Open [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or [Gemini](https://gemini.google.com) — all free to use
 2. Find the section that matches where you are in your job search
 3. Copy the full prompt from the code block
 4. Replace everything inside `[brackets]` with your real information
@@ -63,9 +74,11 @@ OUTPUT FORMAT:
 - Numbered list: Title → Why I qualify → Demand outlook (growing / stable / declining)
 - End with a suggested job board search string I can copy directly
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Surfaces job titles you didn't know you were qualified for — a social media manager often qualifies for content strategist, digital marketing coordinator, or brand communications manager roles without realising it.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p1) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -93,9 +106,11 @@ OUTPUT FORMAT:
 - Table: Company | Size | Hiring reason | Key insight | Fit rating (1-5)
 - Follow with 3 sentences on which one to prioritise first and why
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Builds a targeted company list instead of blindly applying to job boards — knowing why a company is hiring changes how you write your application and what you say in the interview.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p2) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -125,9 +140,11 @@ OUTPUT FORMAT:
 - Each action has a time estimate and what tool/platform to use
 - End with a "week 5 checkpoint" — how to know if the plan is working
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Career changers who need a structured plan, not just motivation — this produces a day-by-day roadmap with realistic timelines and the specific mistakes to avoid for your exact transition.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p3) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -156,9 +173,11 @@ OUTPUT FORMAT:
 - Ranked list: Board name → Type of listings → Competition level → Verdict (worth it / skip)
 - End with one sentence about what to do on each board that most applicants miss
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Beginners who do not know where to look beyond LinkedIn and Indeed — different boards dominate different industries, and spending time on the wrong ones is one of the most common causes of no responses.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p4) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -188,9 +207,11 @@ OUTPUT FORMAT:
 - Fixes: numbered list, each with what to do, how long it will take, and expected impact
 - Benchmark: what response rate I should aim for at my level
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *People who are putting in effort but not getting responses — often a resume, outreach, or targeting problem. This prompt treats your job search like a broken funnel and diagnoses exactly where it is leaking.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p5) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -226,9 +247,11 @@ OUTPUT FORMAT:
 - Follow-up InMail: [message — under 150 words]
 - Why this works: [2-3 sentences per message]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *LinkedIn connection requests need to be short — long messages get ignored. This produces a two-step outreach sequence: a curiosity-triggering connection request, then a clear follow-up.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p6) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -259,9 +282,11 @@ OUTPUT FORMAT:
 - Email: [full text]
 - What to do if no reply after 5 days: [one follow-up sentence]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Going directly to the decision-maker rather than waiting for HR — most candidates never do this, which means even a mediocre cold email stands out.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p7) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -290,9 +315,11 @@ OUTPUT FORMAT:
 - 3-day follow-up: [2-3 sentences]
 - Opening question for when they reply: [one sentence]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Warm networking that builds a relationship first, then opens the door naturally — a referral from a peer at the company is 10x more effective than a cold application.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p8) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -322,9 +349,11 @@ OUTPUT FORMAT:
 - Email body: [under 100 words]
 - What to do if still no reply after another week: [two-sentence suggestion]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *The follow-up most candidates forget to send — it can make the difference between being remembered and being filtered out in a busy inbox.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p9) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -354,9 +383,11 @@ OUTPUT FORMAT:
 - Email body: [under 150 words]
 - Optional add-on if I want to address a weak answer: [2-sentence insert]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Most candidates do not send a thank-you note at all — sending one that references the actual conversation puts you in the top 5% of candidates instantly.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p10) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -391,9 +422,11 @@ OUTPUT FORMAT:
 - For each question: Question → STAR answer → One coaching note (what to watch for when delivering this)
 - End with: Top 2 questions to rehearse out loud before the interview
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *This is the highest-ROI interview prep you can do. Give the AI your actual resume and the company name and it will generate answers tailored to your experience — not generic STAR templates.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p11) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -421,9 +454,11 @@ OUTPUT FORMAT:
 - For each question: Question → STAR answer (written to be spoken, not read) → Spoken delivery note
 - End with: 3-sentence summary of the narrative arc across all my answers (interviewers pick up on consistency)
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Behavioural questions like "Tell me about a time you handled a conflict" trip up most candidates who haven't prepared specific stories — this builds a library of polished answers from your real experience.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p12) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -452,9 +487,11 @@ OUTPUT FORMAT:
 - By round: Round name → Topics to cover → Example problem → What the interviewer is looking for
 - End with a 5-day prep schedule with daily focus areas
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Software, data, and finance roles with technical screening rounds — this tells you what to actually study and what the interviewer is measuring beyond surface-level technical ability.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p13) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -483,9 +520,11 @@ OUTPUT FORMAT:
 - After my response: [feedback on structure / logic / communication — max 3 bullet points]
 - Final debrief: Overall rating (out of 5) + Top 2 areas to improve + One resource to use this week
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Case interviews are one of the hardest formats to prepare for alone — this gives you a realistic mock case with structured feedback after every response.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p14) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -514,9 +553,11 @@ OUTPUT FORMAT:
 - Numbered list: Question → Why this impresses → What a good answer sounds like → Red flag version (if applicable)
 - End with: the 3 I should definitely ask, ranked
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *The questions you ask tell the interviewer as much about you as the answers you give — this produces questions that show strategic thinking and genuine curiosity, not just politeness.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p15) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -551,9 +592,11 @@ OUTPUT FORMAT:
 - Follow-up answer: [if they probe deeper — 2-3 sentences]
 - Red flag audit: [what might concern them + how to pre-empt it]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Layoffs are common — a calm, prepared answer removes any awkwardness immediately and signals professionalism. Improvising this answer is one of the most costly interview mistakes.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p16) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -582,9 +625,11 @@ OUTPUT FORMAT:
 - Follow-up answer: [2-3 sentences showing I am current]
 - What not to say: [3-4 specific phrases to avoid and why]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Gaps from caregiving, health, travel, or studying — framed correctly, they are not a dealbreaker. Framed poorly, they become a reason to reject you.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p17) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -613,9 +658,11 @@ OUTPUT FORMAT:
 - Specific example follow-up: [concrete story in STAR format — under 90 seconds]
 - Why clichés backfire: [3-4 sentences]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *The key is choosing a real weakness you are actively working on — this answer shows self-awareness, which is one of the traits interviewers value most in senior candidates.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p18) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -645,9 +692,11 @@ OUTPUT FORMAT:
 - 90-second version: [for final-round interviews — include a specific example that bridges old and new]
 - Phrases to avoid: [3-4 specific things not to say]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Career changers need to frame the move as a deliberate choice toward something, not away from their last job — this is the single most important framing shift in a transition interview.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p19) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -676,9 +725,11 @@ OUTPUT FORMAT:
 - Follow-up version if they push back: [2-3 sentences, honest but composed]
 - What the interviewer is actually checking for: [2-sentence explanation]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Most people either answer too vaguely ("I want to grow with the company") or too rigidly ("I want to be a VP") — the right answer shows direction without locking you in.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p20) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -715,9 +766,11 @@ OUTPUT FORMAT:
 - Results-based version: [headline — includes a metric or outcome]
 - Why each version works: [one sentence per version]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Most LinkedIn headlines say something like "Open to Work" or just list a job title — this rewrites it to actually appear in recruiter searches and signal the right kind of opportunity.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p21) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -746,9 +799,11 @@ OUTPUT FORMAT:
 - Open to Work text: [paste-ready, under 120 words]
 - What to avoid: [3-4 specific actions that signal job searching publicly]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Anyone who is job searching quietly while still employed — LinkedIn's settings allow you to be invisible to your employer while fully visible to external recruiters.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p22) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -778,9 +833,11 @@ OUTPUT FORMAT:
 - Professional community version: [post — slightly more formal, under 200 words]
 - Best time and day to post: [one sentence with reasoning]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Announcing your job search publicly activates your full network at once — one post can generate 10 referrals from people you forgot were connected to your target company.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p23) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -809,9 +866,11 @@ OUTPUT FORMAT:
 - Section critique: [section name → current state → what to change → example of a strong version]
 - What recruiters check in the first 5 seconds: [3-sentence explanation]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *People who have a profile but are not showing up in recruiter searches — a 20-minute audit of these five sections can go from invisible to multiple inbound messages per week.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p24) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -842,9 +901,11 @@ OUTPUT FORMAT:
 - 5 fixes: [numbered, ranked by impact — include what to change and what to write]
 - Missing keywords: [list of 5-8 keywords I should add and where to put them]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Profiles with low views usually have a keyword problem, not a content problem — adding the right search terms to your headline and About section can triple recruiter visibility within a week.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p25) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -880,9 +941,11 @@ OUTPUT FORMAT:
 - Target list structure: [who to connect with, how to find them, in what order]
 - Template messages: [connection request, follow-up, conversation opener — for my specific field]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *People who know networking matters but don't have a system — a structured 30-day plan with specific daily actions is what separates random networking from systematic referral generation.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p26) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -911,9 +974,11 @@ OUTPUT FORMAT:
 - Call script: Opening (30 sec) → Questions (numbered) → Closing (30 sec)
 - Post-call message: [send within 24 hours — 3 sentences max]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Informational interviews are the most underused job search tool — a 20-minute call often leads directly to a referral, especially when the conversation is structured to feel like genuine curiosity.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p27) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -943,9 +1008,11 @@ OUTPUT FORMAT:
 - Follow-up to warm reply: [under 100 words — move toward a call]
 - Post-call ask: [under 100 words — make the referral ask feel natural]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Warm outreach to people you already know is far easier than cold messaging — but only if the re-entry feels natural and not like you only reach out when you need something.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p28) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -974,9 +1041,11 @@ OUTPUT FORMAT:
 - Interview outcome update: [send once you know — short, personal]
 - If you get the job: [what to do / send — goes beyond a message]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Closing the loop with your referrer builds the relationship and makes them more likely to advocate for you internally — most candidates forget to do this, which feels transactional.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p29) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -1006,9 +1075,11 @@ OUTPUT FORMAT:
 - 1-week follow-up: [2-3 sentences — adds value, no ask yet]
 - The one move most people miss: [2-3 sentences]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Follow up within 24-48 hours — after that, you are a face they vaguely remember. A specific reference to the conversation is the difference between "we connected at an event" and an actual relationship.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p30) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 ---
 
@@ -1044,9 +1115,11 @@ OUTPUT FORMAT:
 - Recommendation: [one paragraph — which offer and why]
 - Questions to ask before signing: [3-5 specific questions to each company]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Comparing offers holistically — growth, culture, flexibility, and equity matter as much as base salary, and most people accept the wrong offer because they only looked at the number.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p31) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -1075,9 +1148,11 @@ OUTPUT FORMAT:
 - For each: [Reassuring answer | Red flag answer]
 - Specific probe based on my concern: [2-3 targeted follow-up questions]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Anyone who has ever started a new job and discovered something important that wasn't mentioned during the interview — most problems are discoverable if you ask the right questions before you sign.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p32) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -1106,9 +1181,11 @@ OUTPUT FORMAT:
 - If they say no: [one sentence fallback — show flexibility]
 - What to never say when negotiating a start date: [2-3 specific phrases to avoid]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Start dates are frequently negotiable — most companies would rather wait two more weeks for their first choice than restart the search.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p33) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -1137,9 +1214,11 @@ OUTPUT FORMAT:
 - Version without reason: [email — under 150 words]
 - What to do if they come back with a counter-offer I didn't expect: [2-3 sentences]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *Declining gracefully protects a relationship you spent weeks building — the hiring manager might be your future client or the person who refers you for your next role.*
+
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p34) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
 
 &nbsp;
 
@@ -1169,13 +1248,22 @@ OUTPUT FORMAT:
 - Damage control: [2-3 specific actions to take in the next 48 hours]
 - What not to do: [3-4 specific mistakes to avoid]
 
-> Before you start: If anything in my context is missing or unclear, ask me one specific question first. Then work through your answer step by step. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
+> Before you start: If anything in my context is missing or unclear, ask me one specific question first. If you can search the web, check the latest data first and cite your sources; if you can't, flag anything that may be out of date. When done, tell me: (1) one piece of information that would make your answer even stronger, and (2) the best next prompt I should run after this one.
 ```
 *This situation happens more than people admit — handled honestly and promptly, it is rarely as damaging as feared. Handled poorly, it can follow you for years in a small industry.*
 
+<sub>⚡ [Get this prompt written for your job search →](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=p35) · [Do it inside ChatGPT with the Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)</sub>
+
 ---
 
-> **Want AI to build a custom job search plan for your specific situation?**
-> Try **[PromptIt](https://promptitin.com)** — free AI prompt enhancer used by thousands of job seekers.
->
-> Related guide: [How to Write Better AI Prompts](https://promptitin.com/guides/what-is-prompt-engineering)
+## Get better results from every prompt
+
+| | |
+|---|---|
+| ⚡ **[PromptIt](https://promptitin.com/use-cases/prepare-for-interview?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search&utm_content=footer)** | Type a rough idea, get a structured, expert-level prompt back. Free to start. |
+| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/promptit/dcnofbodfdmkljndkfnldlllclggnnbd?utm_source=github&utm_campaign=job-search)** | Improve prompts without leaving ChatGPT, Claude, Lovable, Bolt, Replit or v0. |
+| 📘 **[Prompt engineering guide](https://promptitin.com/guides/what-is-prompt-engineering?utm_source=github&utm_medium=prompt-library&utm_campaign=job-search)** | Why these prompts work, and how to write your own. |
+
+**If this saved you time, [⭐ star the repo](https://github.com/shakirdmr/ai-prompt-library)** — it's the only way others find it. Want to say thanks? [☕ Buy me a coffee](https://buymeacoffee.com/shakirdmr).
+
+[← Back to all categories](../README.md)
