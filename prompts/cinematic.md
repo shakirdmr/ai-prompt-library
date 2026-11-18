@@ -108,4 +108,4 @@ An old wooden library with tall bookshelves and a spiral staircase, afternoon su
 
 ---
 
-Want a prompt for your own idea? Describe it in a few words at [promptitin.com](https://promptitin.com/free-tools/ai-video-prompt-builder?utm_source=github&utm_medium=prompt-library&utm_campaign=visual&utm_content=file-cinematic) and get the full prompt.
+Want a prompt for your own idea? Describe it in a few words at [promptitin.com](https://promptitin.com/video-prompt-generator?utm_source=github&utm_medium=prompt-library&utm_campaign=visual&utm_content=file-cinematic) and get the full prompt.
